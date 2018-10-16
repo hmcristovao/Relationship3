@@ -1,0 +1,149 @@
+
+//================================================================================
+// BASIC CONFIG
+//================================================================================
+	
+// Current test name 
+testName = teste10
+
+// Knowledge base local (1 = DBpedia; 2 = my knowledge base)
+knowledgeBasePlace = 1
+
+// Base directory to creation of output files: absolut path 'C:\\path\\results' or relative path 'path\\results' or current path '.'
+baseDirectory = C:\\Users\\Henrique\\Documents\\Relationship
+//baseDirectory = C:\\documentos\\Doutorado\\Tese\\my_knowledge_base
+
+// minimum quantity of iterations to get out of loop when connected component = 1 (good value: 6) 
+minIterationToVerifyUniqueConnectedComponent = 4
+
+// minimum quantity of iterations to get out of loop when exist relationship between original concepts (good value: 10)
+minIterationToVerifyRelationshipBetweenOriginalConcepts = 8
+
+// maximum quantity of iterations to get out of loop (good value: 50)  
+maxIteration = 50  
+
+// N-degree filter used in all system (good value: 2)
+nDegreeFilter = 2
+
+// apply n-degree filter trigger from iteration number (good value: 2)
+iterationTriggerApplyNDegreeFilterAlgorithm = 1
+
+// quantity of nodes to shoot n-degree filter algorithm (good value: 10000)
+quantityNodesToApplyNdegreeFilter = 10000
+
+// apply n-degree filter algorithm only if connected component = 1 (good value: true)
+isUniqueConnectedComponentToApplyNdegreeFilter = false
+
+// make the duplication of concept: from with "category" to without one (change to modify quantity of concepts with "category")
+additionNewConceptWithoutCategory = true
+	
+// K-core used in all system (good value: 2)
+kCoreFilter = 2
+
+// quantity of nodes to shoot K-core n algorithm
+quantityNodesToApplyKcoreFilter = 700
+	
+// fator added in logarithmic function to calculate goal of concepts quantity in final concept to map (good value: 3)
+// function: log2(1/countOriginal)+4+factor
+conceptsQuantityCalculationFactor = 5
+
+// top limit to range of concepts quantity (good value: 5)
+conceptsMinMaxRange = 8
+	
+
+//================================================================================
+// ADVANCED CONFIG
+//================================================================================
+
+// Name of file with the concepts (it is recommended an amount of 2 to 12 concepts)
+nameUserTermsFile = terms.txt
+
+// use of the useless table to discart terms in rdfs collect fase
+isEnableUselessTable = true
+	
+// BETWEENNESS + CLOSENESS
+// quantity of nodes to selection in all connected componentes (proporcion relative to quantity total of user terms) (good value: 3.0)
+proporcionBetweennessCloseness = 2.0
+// precision added up to rounding the calculate of quantity of each connected component (good value: 0.5)
+precisionBetweennessCloseness = 0.5
+// quantity of nodes to use as base to build betweenness+closeness sorted table. 
+// proporcion relative to quantity total of user terms. Must be >= maxBetweennessCloseness.  (good value: double of maxBetweennessCloseness)
+// (if near maxBetweennessCloseness than the sort will disregard closeness) 
+proporcionBetweennessOnly = 10
+// maximum limit to quantity of new concepts distributed in all connected component, +0.5 in each component (excluding the addition of nodes by "Category:") 
+// proporcion relative to quantity total of user terms. (good value: 5)
+maxBetweennessCloseness = 5
+
+// EIGENVECTOR
+// quantity of nodes to selection in all connected componentes (proporcion relative to quantity total of original nodes) (good value: 1.0)
+proporcionEigenvector = 1.0
+// precision added up to rounding the calculate of quantity of each connected component (good value: 0.5)
+precisionEigenvector = 0.5 
+// maximum limit to quantity of new concepts distributed in all connected component, +0.5 in each component (excluding the addition of nodes by "Category:") 
+// proporcion relative to quantity total of user terms. (good value: 15)
+maxEigenvector = 5
+
+// choice of nodes to be head. They are used to build the shortest paths (obs. the original concepts are always chosen) (good value: isBetweennessCloseness = true)
+isBetweennessCloseness = true
+isEigenvector = false
+isSelected = false
+	
+// keep all nodes with link to original concepts (in stage after selection of head nodes) (good value: false)
+// (normally this flag improves much more the final quantity of concepts in concept map) 
+isKeepNeighborsOfOriginalConcepts = false
+	
+// quantity of nodes each rank to show in short report (good value: 0)
+quantityNodesShortReport = 0
+
+// color of original concepts (good value: 200.200.200.255)
+backGroundcolorOriginalConcept = 200.200.200.255
+
+// thickness of concepts with hint (good value: 2)
+borderThicknessConceptWithHint = 2
+
+// line maximum length of sentences in the final concept map
+maxLineLengthConcept    = 15
+maxLineLengthLinkPhrase = 15
+
+// Names of files  (## = will be change to value of the testName var)
+nameQueryDefaultFile    = query_model\\query.txt
+nameVocabularyFile      = vocabulary\\linkvocabulary.txt
+nameUselessConceptsFile = vocabulary\\uselessconcepts.txt
+nameTxtConceptMapFile   = conceptmap_##.txt
+nameCxlConceptMapFile   = conceptmap_##.cxl
+nameGexfGraphFile       = graph_##.gexf
+nameCompleteReportFile  = complete_report_##.txt
+nameShortReportFile     = short_report_##.txt
+nameConsoleReportFile   = console_report_##.txt
+nameConsoleErrorFile    = consoleErr_##.txt
+nameMyKnowledgeBaseFile = myKnowledgeBase\\base.txt
+
+// Names of directories
+dirRdfsPersistenceFiles = persistenceRdfs
+dirGraph                = graph
+dirLog					= log
+dirConceptMap           = conceptMap    	
+    	
+// DBPEDIA server (good value: http://dbpedia.org/sparql) (alternative good value: http://lod.openlinksw.com/sparql)
+dbpediaServer = http://dbpedia.org/sparql
+
+// to see simultaneously the build of graph in Gephi (good value: false)	
+gephiVisualization = false
+
+// to see simultaneously the build of graph in Graph Stream Visualization (good value: false)	
+graphStreamVisualization = 	false
+
+// to fix a bug in Gephi Tool Kit - calculate wrong the quantity of connected component
+// turn the flag to true and put original concepts that is getting alone (put '.' to empty)
+isFixBugInGephiToolKit = true
+originalConceptWithGephiToolKitBug0 = Knowledge organization.
+originalConceptWithGephiToolKitBug1 = Tim Berners-Lee.
+originalConceptWithGephiToolKitBug2 = .
+originalConceptWithGephiToolKitBug3 = .
+originalConceptWithGephiToolKitBug4 = .
+originalConceptWithGephiToolKitBug5 = .
+originalConceptWithGephiToolKitBug6 = .
+originalConceptWithGephiToolKitBug7 = .
+originalConceptWithGephiToolKitBug8 = .
+originalConceptWithGephiToolKitBug9 = .
+	

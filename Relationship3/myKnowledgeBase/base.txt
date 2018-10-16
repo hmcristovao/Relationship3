@@ -1,0 +1,1566 @@
+11 quesitos para dado aberto	dado aberto deve possuir	acesso a dados
+11 quesitos para dado aberto	dado aberto deve possuir atribuição de 	autoria
+11 quesitos para dado aberto	dado aberto não deve possuir discriminação contra	campos de trabalho
+11 quesitos para dado aberto	dado aberto deve possuir	distribuição da licença
+11 quesitos para dado aberto	dado aberto não deve possuir discriminação contra	grupo de pessoas
+11 quesitos para dado aberto	dado aberto deve possuir	integridade
+11 quesitos para dado aberto	dado aberto não deve possuir	licença de restrição a distribuição de outras obras
+11 quesitos para dado aberto	dado aberto não deve possuir	licença específica para uma coletânea
+11 quesitos para dado aberto	dado aberto não deve possuir discriminação contra	pessoas
+11 quesitos para dado aberto	dado aberto deve possuir	redistribuição
+11 quesitos para dado aberto	dado aberto não deve ter 	restrição tecnológica
+11 quesitos para dado aberto	dado aberto deve ter	reutilização
+1º princípio do projeto de dados ligados	todas as coisas devem se identificadas por	URI
+2º princípio do projeto de dados ligados	deve-se criar URIs usando-se 	URI Scheme
+3º princípio do projeto de dados ligados	a consulta a um URI deve fornecer útil	informação
+3Vs (big data)	possui como característica	variedade (faixa dos tipos e fontes de dados)
+3Vs (big data)	possui como característica	velocidade de entrada e saída de dados
+3Vs (big data)	possui como característica	volume (quantidade de dados)
+4º princípio do projeto de dados ligados	"para facilitar a descoberta de novos dados, incluir links para outras "	URI
+5 estrelas para LOD (segundo Tim Berners-Lee)	tem a propriedade:	LOD - 1 estrela
+5 estrelas para LOD (segundo Tim Berners-Lee)	tem a propriedade:	LOD - 2 estrelas
+5 estrelas para LOD (segundo Tim Berners-Lee)	tem a propriedade:	LOD - 3 estrelas
+5 estrelas para LOD (segundo Tim Berners-Lee)	tem a propriedade:	LOD - 4 estrelas
+5 estrelas para LOD (segundo Tim Berners-Lee)	tem a propriedade:	LOD - 5 estrelas
+A força dos laços fracos	teoria concebida em	1973
+A força dos laços fracos	"essa teoria enfatiza a importancia, entre partes de uma rede social, dos"	laços fracos
+A força dos laços fracos	teoria que enfatiza a importância de estabeler conexões fora do convencional entre	nó da rede
+A força dos laços fracos	teoria que enfatiza a importância das conexões entre partes distantes de uma	rede social
+abertura de dados governamentais	é fundamental para a 	transparência e controle democrático
+abertura de dados governamentais	é fundamental para a 	transparência governamental
+Abraham de Moivre	introduziu a distribuição normal em	1733
+Abraham de Moivre	introduziu pela primeira vez a	distribuição normal
+acesso à informação	é determinado pelo	comportamento informacional
+acesso à informação	é qualquer procedimento para a recuperação/consulta da	informação
+acesso à informação	é determinado pelo	necessidade informacional do usuário
+acesso a população desconhecida	possui métodos tais como 	bola de neve (método para acesso à população desconhecida)
+acesso a população desconhecida	possui métodos tais como 	caminhada randômica (método para acesso à população desconhecida)
+acesso a população desconhecida	possui métodos tais como 	mapeamento de contatos (método para acesso à população desconhecida)
+acesso a população desconhecida	possui métodos para descobrir dados da	população desconhecida
+Ajax	conjunto de tecnologias que melhoram a	interação humano-computador
+Ajax	conjunto de tecnologias que melhoram a	interface gráfica do usuário
+Ajax	usa tecnologias web tais como	Javascript
+Ajax	usa tecnologias web tais como	JSON
+Ajax	conjunto de tecnologias web que traz mais processamento para o	lado cliente
+Ajax	conjunto de tecnologias web que traz mais processamento para o lado do cliente ao invés do	servidor
+Ajax	conjunto de tecnologias que melhraram a experiência do	usuário
+Ajax	usa tecnologias web tais como	XML
+Albert Láslo Barabasi	possui formação em	Física
+Albert Láslo Barabasi	é natural da	Hungria
+Alberto Cañas	é natural de	Costa Rica
+Alberto Cañas	tem formação em	Engenharia de Computação
+análise de redes complexas	utiliza técnicas da	análise de redes sociais
+análise de redes complexas	usa também	análise pela observação
+análise de redes complexas	auxilia na melhoria	atendimento ao cidadão
+análise de redes complexas	auxilia na prevenção de	atividades terroristas
+análise de redes complexas	é uma área interdisciplinar envolvendo áreas como	Ciência da Computação
+análise de redes complexas	auxilia na capacidade em prever	comportamento
+análise de redes complexas	auxilia no combate à	criminalidade
+análise de redes complexas	é uma área interdisciplinar envolvendo áreas como	Economia
+análise de redes complexas	"na área da saúde, auxilia no estudo de"	emoções
+análise de redes complexas	é uma área interdisciplinar envolvendo áreas como	Estatística
+análise de redes complexas	auxilia na previsão de	fenômenos econômicos
+análise de redes complexas	executa ações tais como	filtragem de nós
+análise de redes complexas	é uma área interdisciplinar envolvendo áreas como	Física
+análise de redes complexas	tem aplicações na área	interação humano-computador
+análise de redes complexas	é uma área interdisciplinar envolvendo áreas como	Matemática
+análise de redes complexas	usa o cálculo de	métrica de rede
+análise de redes complexas	tem aplicações na área	mineração de dados
+análise de redes complexas	tem aplicações na área	padrões de tráfego na internet
+análise de redes complexas	executa ações tais como	particionamento de rede
+análise de redes complexas	auxilia estudos na área da	Política
+análise de redes complexas	auxilia na difusão da adoção de novos	produto
+análise de redes complexas	executa ações tais como	ranqueamento de nós
+análise de redes complexas	facilita a análise pela observação de uma	rede
+análise de redes complexas	auxilia o entendimento das	rede complexa
+análise de redes complexas	estuda ligações em	rede complexa
+análise de redes complexas	tenta detectar padrões nas ligações de uma	rede complexa
+análise de redes complexas	auxilia estudos comportamentais na área	saúde
+análise de redes complexas	tem aplicações na área	sistemas distribuídos
+análise de redes complexas	tem aplicações na área	sistemas multimídia
+análise de redes complexas	é uma área interdisciplinar envolvendo áreas como	Sociologia
+análise de redes complexas	auxilia na melhoria da	transparência governamental
+análise de redes dinâmicas	auxilia o estudo das	rede dinâmica
+análise de redes sociais	estuda também redes cujos nós são diferentes de uma	entidade social
+análise de redes sociais	além das redes sociais pode ser usada para estudar outros tipos de	rede
+análise de redes sociais	facilita a análise pela observação de uma	rede
+análise de redes sociais	estuda ligações em	rede social
+análise de redes sociais	tenta detectar padrões nas ligações de uma	rede social
+anexação preferencial	conhecida também pela frase	"""os ricos ficam mais ricos"""
+anexação preferencial	também conhecida por	fixação preferencial
+anexação preferencial	também conhecida por	ligação preferencial
+anexação preferencial	ocorre quando um novo nó tende a ser ligado preferencialmente em 	nós de maior grau
+Apache Jena	conhecido também por 	Jena
+API	significa	application programming interface
+API	significa	interface de programação de aplicação
+aplicação	é um	software
+aprendiz preparado para aprendizagem significativa	possui	conhecimento prévio
+aprendiz preparado para aprendizagem significativa	possui	vontade de aprender de modo significativo
+aprendizagem	pode ser avaliada com	"técnica do ""esqueleto"""
+aprendizagem	pode ser avaliada com	"técnica do ""estacionamento"""
+aprendizagem mecânica	normalmente usada por alunos sem prática com	aprendizagem significativa
+aprendizagem mecânica	quando o conteúdo novo não se relaciona com o	conhecimento prévio
+aprendizagem significativa	idealizada em	1968
+aprendizagem significativa	necessita	aprendiz preparado para aprendizagem significativa
+aprendizagem significativa	difere da	aprendizagem mecânica
+aprendizagem significativa	idealizada por	David Ausubel
+aprendizagem significativa	provoca	diferenciação progressiva
+aprendizagem significativa	acontece quando	incorporação de novo conteúdo às estruturas cognitivas
+aprendizagem significativa	necessita	materiais e exemplos claros
+armazenamento em cluster (técnica de mineração de dados)	"afim de determinar padrões, permite que o usuário faça grupos de"	dados
+armazenamento em cluster (técnica de mineração de dados)	exige que o usuário conheça bem os	dados
+Arquitetura da Informação	é uma área da	Ciência da Informação
+arquitetura web	foca em tecnologias de base e princípios que sustentam a	web
+árvore de classificação (técnica de mineração de dados)	também conhecida por	árvore de decisão (técnica de mineração de dados)
+árvore de classificação (técnica de mineração de dados)	cada nó representa um ponto de uma	decisão a ser tomada
+árvore de classificação (técnica de mineração de dados)	é boa para responder 	questão
+as 5 leis da Biblioteconomia	são	"1ª lei da biblioteconomia: ""os livros são escritos para serem lidos"""
+as 5 leis da Biblioteconomia	são	"2ª lei da biblioteconomia: ""todo leitor tem seu livro"""
+as 5 leis da Biblioteconomia	são	"3ª lei da biblioteconomia: ""todo livro tem seu leitor"""
+as 5 leis da Biblioteconomia	são	"4ª lei da biblioteconomia: ""poupe tempo do leitor"""
+as 5 leis da Biblioteconomia	são	"5ª lei da biblioteconomia: ""uma biblioteca é um organismo em crescimento"""
+as 7 pontes de Königsberg	foi um problema resolvido por Leonard Euler em	1736
+as 7 pontes de Königsberg	é um problema baseado na cidade	Königsberg (pertencente a antiga Prucia)
+as 7 pontes de Königsberg	fez originar a	teoria dos grafos
+banco de dados relacional	é um tipo de 	banco de dados
+base de conhecimento	é formado por um conjunto organizado de conhecimento numa	área do conhecimento
+base de conhecimento	é formado por um conjunto organizado de (numa determinada área)	conhecimento
+betweenness	é um	índice de centralidade
+betweenness	é uma	métrica de rede
+big data	se baseia no conjunto de caracterísitcas	3Vs (big data)
+big data	tem o tamanho aumentado com o	avanço do tempo
+big data	são conjuntos de dados com tamanho que vão além da capacidade normalmente usada por	ferramenta de software
+big data	usa ferramentas de software para 	mineração de dados
+big data	é um conjunto de	técnicas e tecnologias (no contexto big data)
+Biologia	é uma	área do conhecimento
+boas práticas de publicação de dados na web	requer	compartilhamento de dados na web
+boas práticas de publicação de dados na web	requer	"conexão de dados, informação e conhecimento na web"
+boas práticas de publicação de dados na web	requer	exposição de dados na web
+boas práticas de publicação de dados na web	trabalha sobre a	Web Semantica
+bola de neve (método para acesso à população desconhecida)	começa a pequisa com poucos indivíduos e esses indicam outros	indivíduo
+bootstraping	processo de retroalimentação onde os dados de saída são usados para entrada de mais	dados
+bootstraping	é um processo de	retroalimentação
+Britanica Online	tem site	http://www.britannica.com/
+cadeia alimentar	é um exemplo de	rede biológica
+caminhada randômica (método para acesso à população desconhecida)	o pesquisador escolhe aleatoriamente os indicados pelo método	bola de neve (método para acesso à população desconhecida)
+caminho direcionado entre dois nós	quando dois nós são ligados por um ou mais	ligação direcionada entre nós
+caminho entre dois nós	quando dois nós são ligados por um ou mais	ligação entre nós
+capital social	é diferente de	capital humano
+centralidade de grau	é uma medida feita a partir do	grau de um nó
+centralidade de grau	o número de conexões define a	importância de um nó
+centralidade de grau	é um	índice de centralidade
+centralidade de grau	é uma	métrica de rede
+centralidade de grau	é o número de conexões de um nó com os outros	nó da rede
+centralidade de intermediação	conhecida como	betweenness
+centralidade de intermediação	a capacidade de intermediação no fluxo entre os demais nós define a	importância de um nó
+centralidade de intermediação	é um	índice de centralidade
+centralidade de intermediação	é uma	métrica de rede
+centralidade de intermediação	é a importância de intermediação de um nó com os demais	nó da rede
+centralidade de intermediação	é uma métrica de	rede
+centralidade de proximidade	também conhecido por 	closeness
+centralidade de proximidade	é um	índice de centralidade
+centralidade de proximidade	é uma	métrica de rede
+centralidade de vetor próprio	é um	índice de centralidade
+C-family of languages	são linguagens que tem sintaxe derivada da	Linguagem C
+ciclo da informação	"possui fases, tais como:"	Comunicação da Informação
+ciclo da informação	"possui fases, tais como:"	gênese da informação
+ciclo da informação	"possui fases, tais como:"	mediação da informação
+ciclo da informação	"possui fases, tais como:"	Organização da Informação
+ciclo da informação	"possui fases, tais como:"	Recuperação de Informação
+Ciência da Computação	é uma	área do conhecimento
+Ciência da Informação	possui 3 paradigmas de avolução	1º paradigma de evolução da Ciência da Informação: físico
+Ciência da Informação	possui 3 paradigmas de avolução	2º paradigma de evolução da Ciência da Informação: cognitivo
+Ciência da Informação	possui 3 paradigmas de avolução	3º paradigma de evolução da Ciência da Informação: social
+Ciência da Informação	investiga meios de processar a informação para otimizar o 	acesso à informação
+Ciência da Informação	"possui áreas de pesquisa, tais como:"	Comunicação da Informação
+Ciência da Informação	é estreitamente relacionada à	Epistemologia Social
+Ciência da Informação	é estreitamente relacionada à	Filosofia da Informação
+Ciência da Informação	pode ser interpretada como sendo a aplicação da	Filosofia da Informação
+Ciência da Informação	pode ser interpretada como sendo	Filosofia da Informação Aplicada
+Ciência da Informação	investiga as forças que governam o	fluxo de informação
+Ciência da Informação	"possui áreas de pesquisa, tais como:"	gênese da informação
+Ciência da Informação	investiga as propriedades e comportamento da	informação
+Ciência da Informação	"é o estudo com critérios, princípios e métodos científicos da"	informação
+Ciência da Informação	é fortemente	interdisciplinar
+Ciência da Informação	"possui áreas de pesquisa, tais como:"	mediação da informação
+Ciência da Informação	"não tem a informação em si como objeto de pesquisa, mas a"	mediação da informação
+Ciência da Informação	"possui áreas de pesquisa, tais como:"	Organização da Informação
+Ciência da Informação	"tem como um dos objetivos estudar, analisar os processos de construção, comunicação e uso das"	propriedade geral da informação
+Ciência da Informação	"possui áreas de pesquisa, tais como:"	Recuperação de Informação
+Ciência da Informação	grande parte dos seus problemas é associado a subárea da	Recuperação de Informação
+Ciência da Informação	é uma ciência participante e ativa na evolução da	sociedade da informação
+Ciência da Informação	está ligada à	tecnologia da informação
+Ciência da Informação	investiga meios de processar a informação para otimizar o 	uso da informação
+Ciência da Web	é interdisciplinar e combina pesquisas em áreas tais como	Ciência da Computação
+Ciência da Web	estuda áreas tais como	Ciência das Redes
+Ciência da Web	estuda áreas tais como	Ciência dos Dados
+Ciência da Web	estuda áreas tais como	Ciências Sociais da Web
+Ciência da Web	é interdisciplinar e combina pesquisas em áreas tais como	Direito
+Ciência da Web	é interdisciplinar e combina pesquisas em áreas tais como	Economia
+Ciência da Web	une tanto elementos tecnológicos quanto	elementos sociais
+Ciência da Web	une tanto elementos sociais quanto	elmentos tecnológicos
+Ciência da Web	estuda áreas tais como	Engenharia da Web
+Ciência da Web	"é o processamento, na web, de"	informação
+Ciência da Web	é necessariamente	interdisciplinar
+Ciência da Web	é interdisciplinar e combina pesquisas em áreas tais como	Matemática
+Ciência da Web	é interdisciplinar e combina pesquisas em áreas tais como	Psicologia
+Ciência da Web	é interdisciplinar e combina pesquisas em áreas tais como	Sociologia
+Ciência da Web	é o processamento de informações disponíveis na	web
+Ciência da Web	também conhecida por	Web Science
+Ciência das Redes	é o estudo das representações de rede de fenômenos em várias	área do conhecimento
+Ciência das Redes	envolve várias	área do conhecimento
+Ciência das Redes	"estuda teoria e métodos, tais como"	estrutura social
+Ciência das Redes	é um campo acadêmico	interdisciplinar
+Ciência das Redes	"estuda teoria e métodos, tais como"	Mecânica Estatísitica
+Ciência das Redes	"estuda teoria e métodos, tais como"	mineração de dados
+Ciência das Redes	"estuda teoria e métodos, tais como"	modelagem inferencial
+Ciência das Redes	também conhecida por	Network Science
+Ciência das Redes	estuda	rede complexa
+Ciência das Redes	"estuda teoria e métodos, tais como"	teoria dos grafos
+Ciência das Redes	"estuda teoria e métodos, tais como"	visualização da informação
+Ciência das Redes	é um campo que também envolve a 	web
+Ciência dos Dados	também conhecida por	Data Science
+Ciências Sociais da Web	também conhecida por	Web Social Science
+"classificação de topologias de rede, por Paul Baran"	pode ser	topologia centralizada
+"classificação de topologias de rede, por Paul Baran"	pode ser	topologia descentralizada
+"classificação de topologias de rede, por Paul Baran"	pode ser	topologia distribuída
+Claude Shannon	concebeu a Teoria da Informação em	1948
+Claude Shannon	tem formação em	Engenharia Eletrônica
+Claude Shannon	tem naturalidade	Estados Unidos
+Claude Shannon	é considerado o pai da	teoria da informação
+cliente	é quem solicita e define os objetivos gerais de um	sistema de informação
+clique	é um subgrupo de nós de uma rede com todas as possíveis	ligação entre nós
+clique	é um subgrupo de nós da rede com a quantidade máxima N(N-1)/2 de	ligação entre nós
+clique	é uma sub-rede com caracterísiticas de	rede completa
+closeness	também conhecido por 	centralidade de proximidade
+closeness	a proximidade de nós importantes é o que determina a	importância de um nó
+closeness	é uma	métrica de rede
+closeness	é o quanto um determinado nó está próximo  de importantes	nó da rede
+closeness	é uma métrica de	rede
+clustering	é determinado pelo	coeficiente de clusterização
+clustering	"tendência, independente da vontade de formar aglomerados na"	rede social
+CmapTools	desenvolvido por	Alberto Cañas
+CmapTools	é um	editor de mapa conceitual
+CmapTools	permite	exportação de mapas conceituais
+CmapTools	é uma	ferramenta de software
+CmapTools	permite	formatações de conceitos e links
+CmapTools	permite	gravar/reproduzir o passo-a-passo da construção de um mapa conceitual
+CmapTools	disponível em	http://cmap.ihmc.us/
+CmapTools	desenvolvido no	IHMC
+CmapTools	permite	importação de mapas conceituais
+CmapTools	é um	software
+CmapTools	é	software free
+CmapTools	permite	trabalho cooperativo em mapas conceituais
+código aberto	dado aberto deve possuir atribuição de 	autoria
+código aberto	não deve possuir discriminação contra	campos de trabalho
+código aberto	deve fornecer o seu	código fonte
+código aberto	deve possuir	distribuição da licença
+código aberto	é um programa que possui a característica de	distribuição livre (software)
+código aberto	não deve possuir discriminação contra	grupo de pessoas
+código aberto	não deve restringir	licença a outros programas
+código aberto	não deve ter 	restrição tecnológica
+código aberto	deve permitir modificações e	trabalhos derivados
+código fonte	"de um software, é o código escrito numa linguagem de programação usado para gerar este"	software
+coeficiente de clusterização	também conhecido por 	coeficiente de aglomeração
+coeficiente de clusterização	também conhecido por 	coeficiente de agrupamento
+coeficiente de clusterização	pode ser	coeficiente de clusterização de um nó
+coeficiente de clusterização	pode ser	coeficiente de clusterização de uma subrede
+coeficiente de clusterização	mede o quanto uma rede ou um nó tem a capacidade de se juntar a outros	nó da rede
+coeficiente de clusterização	é obtido por intermédio da quantidade de 	triângulo completo na rede
+coeficiente de clusterização de um nó	mede o quanto um determinado nó tem a capacidade de se juntar a outros	nó da rede
+coeficiente de clusterização de um nó	é calculado pela razão entre o número de ligações do nó pelo número máximo de ligações possíveis entre todos os seus	nó vizinho
+coeficiente de clusterização de uma subrede	é calculado como sendo a média de todos os	coeficiente de clusterização de um nó
+coeficiente de clusterização de uma subrede	mede o quanto uma subrede como um todo tem a capacidade de se juntar a outros novos	nó da rede
+cognição	é o ato ou processo da aquisição do	conhecimento
+coleção de triplas RDF	podem ser visualizadas como um	grafo
+coleção de triplas RDF	formada por várias	tripla RDF
+coleta de dados para redes	"possui método, tais como"	acesso a população desconhecida
+coleta de dados para redes	"possui método, tais como"	consulta a dados de terceiros
+coleta de dados para redes	"possui método, tais como"	entrevista
+coleta de dados para redes	"possui método, tais como"	observação direta
+coleta de dados para redes	"possui método, tais como"	questionário
+componente conectado	é um subconjunto de nós onde a cada dois nós existe um possível	caminho entre dois nós
+componente conectado	é um subconjunto de nós onde existe uma ligação entre cada um	nó da rede
+componente conectado	é um subconjunto de nós conectados de uma	rede
+componente fortemente conectado	é um subconjunto de nós onde a cada dois nós existe um possível	caminho direcionado entre dois nós
+componente fortemente conectado	"devido a exigência das ligações direcionadas, difere do "	componente fracamente conectado
+componente fortemente conectado	conceito somente aplicado a	grafo direcionado
+componente fortemente conectado	é um subconjunto de nós onde existe uma ligação direcionada entre cada um	nó da rede
+componente fortemente conectado	é um subconjunto de nós fortemente conectados de uma	rede
+componente fortemente conectado	conceito somente aplicado a	rede direcionada
+componente fracamente conectado	é um subconjunto de nós de uma rede direcionada onde a cada dois nós existe um possível	caminho entre dois nós
+componente fracamente conectado	conceito somente aplicado a	grafo direcionado
+componente fracamente conectado	é um subconjunto de nós de uma rede direcionada onde existe uma ligação entre cada um	nó da rede
+componente fracamente conectado	conceito somente aplicado a	rede direcionada
+componente fracamente conectado	é um subconjunto de nós conectados de uma	rede direcionada
+componente gigante	é o maior subconjunto de nós onde a cada dois nós existe um possível	caminho entre dois nós
+componente gigante	"numa rede, é o maior"	componente conectado
+componente gigante	é o maior subconjunto de nós onde existe uma ligação entre cada um	nó da rede
+componente gigante	é o maior subconjunto de nós conectados de uma	rede
+comportamento do usuário	"no contexto de busca por informação, é o mesmo que"	comportamento informacional
+comportamento informacional	é o comportamento humano relativo a várias ações perante a	informação
+comportamento informacional	foca nas	necessidade informacional do usuário
+computável	é resolvida por 	algoritmo
+Comunicação e Mediação da Informação	trabalha com	canais de informação
+Comunicação e Mediação da Informação	é uma linha de pesquisa na	Ciência da Informação
+Comunicação e Mediação da Informação	é composta de 	Comunicação da Informação
+Comunicação e Mediação da Informação	trabalha com	fluxo de informação
+Comunicação e Mediação da Informação	lida com fatores interno e externos que influenciam	fluxo de informação
+Comunicação e Mediação da Informação	é composta de 	mediação da informação
+conceito	pode ser representado por uma mídia	figura
+conceito	pode ser outro	mapa conceitual
+conceito	pode ser representado por uma mídia	música
+conceito	pode ser representado por uma mídia	site
+conceito	pode ser representado por uma mídia	texto
+conceito	pode ser representado por uma mídia	vídeo
+conceitos já existentes nas estruturas cognitivas	ocorre a partir da modificação dos	subsunçor
+conclusiva	é resolvida num	tempo finito
+conhecimento	é um conjunto organizado e estruturado de	informação
+conhecimento prévio	é chamado de	subsunçor
+conhecimento prévio	é necessário para ter	vontade de aprender de modo significativo
+consenso	é um acordo geral entre os membros de um	grupo de pessoas
+construção de um mapa conceitual	é um processo bom para	aprendizagem
+construção de um mapa conceitual	é mais complexa por alunos que ao longo de sua vida escolar não tiveram prática com	aprendizagem significativa
+construção de um mapa conceitual	auxilia a	metacognição
+construção de um mapa conceitual	pode ser avaliada com	"técnica do ""esqueleto"""
+construção de um mapa conceitual	pode ser avaliada com	"técnica do ""estacionamento"""
+consulta a dados de terceiros	geralmente realizado por aplicativos que fazem leitura de dados em	DBpedia
+consulta a dados de terceiros	geralmente realizado por aplicativos que fazem leitura de dados em	email
+consulta a dados de terceiros	geralmente realizado por aplicativos que fazem leitura de dados em	Facebook
+consulta a dados de terceiros	geralmente realizado por aplicativos que fazem leitura de dados em	Linkedin
+consulta a dados de terceiros	geralmente realizado por aplicativos que fazem leitura de dados em	Twitter
+consumer-generated media (CGM)	é um conteúdo criado e divulgado pelo próprio	consumidor
+consumidor de dados	pode ser	máquina
+consumidor de dados	pode ser	usuário
+contágio	é um conceito referente ao contexto das	rede dinâmica
+conteúdo da web	"tem, no momento, pouco conteúdo para ser"	compreensível por máquinas
+conteúdo da web	"tem, no momento, maior parte para"	consumo humano
+conteúdo informacional	normalmente pertence a uma	área do conhecimento
+conteúdo informacional	pode pertencer a um	conteúdo programático
+conteúdo informacional	normalmente está dentro de uma	disciplina (educacional)
+conteúdo programático	pertence a	disciplina (educacional)
+crescimento da rede	é a adição de novos nós ao	longo do tempo
+crescimento da rede	significa que ao longo do tempo são adicionados novos	nó da rede
+crosslink	tem o objetivo de ligar	dois conceitos distantes no mapa
+crosslink	melhora	leitura de um mapa conceitual
+crosslink	representa um	salto criativo
+crowdsourcing	"processo para obteção de serviços, ideias e conteúdos pela contribuição de um grande"	grupo de pessoas
+crowdsourcing	é uma boa possibilidade para o crescimento da	Web Semantica
+currículo escolar	possui várias	disciplina (educacional)
+curva do sino	nem toda segue a	distribuição Gaussiana
+D2R Server	transforma para RDFs dados de um	banco de dados relacional
+D2R Server	facilita a transformação de um banco de dados relacionais em	coleção de triplas RDF
+D2R Server	tem site	http://d2rq.org/d2r-server
+D2R Server	é	opensource
+D2R Server	é uma ferramenta para publicação de bancos de dados relacionais na	Web Semantica
+dado aberto	deve possuir	11 quesitos para dado aberto
+dado aberto	deve possuir	acesso a dados
+dado aberto	deve possuir atribuição de 	autoria
+dado aberto	não deve possuir discriminação contra	campos de trabalho
+dado aberto	deve possuir	distribuição da licença
+dado aberto	não deve possuir discriminação contra	grupo de pessoas
+dado aberto	deve possuir	integridade
+dado aberto	não deve possuir	licença de restrição a distribuição de outras obras
+dado aberto	não deve possuir	licença específica para uma coletânea
+dado aberto	conhecido mundialmente por 	open data
+dado aberto	não deve possuir discriminação contra	pessoas
+dado aberto	deve possuir	redistribuição
+dado aberto	não deve ter 	restrição tecnológica
+dado aberto	deve ter	reutilização
+dados	é um conjunto de	símbolo
+dados abertos ligados	possui propriedades conhecidas por	5 estrelas para LOD (segundo Tim Berners-Lee)
+dados abertos ligados	auxilia na	abertura de dados governamentais
+dados abertos ligados	a sua disseminação permite a criação de 	campos de aplicação
+dados abertos ligados	auxilia na melhoria de serviços públicos para o	cidadão
+dados abertos ligados	a sua disseminação permite a criação de 	conhecimento
+dados abertos ligados	auxilia na criação de	conhecimento
+dados abertos ligados	auxilia na	empoderamento do cidadão
+dados abertos ligados	a sua disseminação permite a criação de 	ideias
+dados abertos ligados	conhecido mundialmente por 	linked open data
+dados abertos ligados	é um fenômeno que alimenta	padrão de dados aberto
+dados abertos ligados	auxilia na	participação do cidadão
+dados abertos ligados	auxilia na medição do impacto de	políticas públicas
+dados abertos ligados	a sua disseminação permite a criação de 	serviços diferenciados
+dados abertos ligados	auxilia na melhoria da eficiência e eficácia dos	serviços públicos
+dados abertos ligados	auxilia na	transparência e controle democrático
+dados abertos ligados	é um fenômeno que alimenta	universalidade da web
+dados abertos ligados	é um fenômeno que alimenta a universalidade da	web
+dados da web	são	dados
+dados em escala	possuem grande capacidade de crescimento sobre	dados
+dados ligados	possui	1º princípio do projeto de dados ligados
+dados ligados	possui	2º princípio do projeto de dados ligados
+dados ligados	possui	3º princípio do projeto de dados ligados
+dados ligados	possui	4º princípio do projeto de dados ligados
+dados ligados	deve possuir um padronizado 	acesso a dados
+dados ligados	é um contrato para adoção de	boas práticas de publicação de dados na web
+dados ligados	"conjunto de princípios, tecnologias e padrões da web para"	compartilhamento de dados ligados
+dados ligados	é definido como	"conjunto de princípios, tecnologias e padrões da web para publicação, compartilhamento e reuso dos dados em escala"
+dados ligados	facilita o lado do	consumidor de dados
+dados ligados	"quando acontece em contextos de dados abertos, dá-se o nome de"	dados abertos ligados
+dados ligados	conecta	dados com possibilidades de relacionamento
+dados ligados	diminui as barreiras dos	dados com possibilidades de relacionamento
+dados ligados	"conjunto de princípios, tecnologias e padrões da web para publicação, compartilhamento e reuso dos"	dados em escala
+dados ligados	facilita o uso de dados provenientes de diversas	fonte de dados
+dados ligados	utiliza o protocolo	HTTP
+dados ligados	possui site	http://linkeddata.org/
+dados ligados	possibilita	interoperabilidade
+dados ligados	conhecidos mundialmente por 	linked data
+dados ligados	fornece um unificado	modelo de dados semânticos
+dados ligados	possui 4 princípios para o	projeto de dados ligados
+dados ligados	torna mais flexível a 	publicação de dados
+dados ligados	"conjunto de princípios, tecnologias e padrões da web para"	publicação de dados ligados
+dados ligados	possui conjunto de boas práticas para	publicação de dados ligados
+dados ligados	faz a ligação de dados por intermédio de 	RDF
+dados ligados	fornece um modelo de dados unificado por intermédio do	RDF
+dados ligados	"conjunto de princípios, tecnologias e padrões da web para"	reuso dos dados ligados
+dados ligados	é suportado por	URI
+dados ligados	acontece a fusão de diferentes 	vocabulário RDF
+dados ligados	na publicação de novos dados deve preferencialmente buscar por consolidados	vocabulário RDF
+dados ligados	funciona sobre a	web
+dados ligados	é um projeto do movimento colaborativo da	Web Semantica
+dados ligados	não usa	XML
+Dan Brickley	é um dos criadores de	FOAF (friend of a friend)
+DBpedia	é um esforço comunitário	crowdsourcing
+DBpedia	é um	grafo RDF
+DBpedia	possui site	http://dbpedia.org
+DBpedia	possui informações em 128 diferentes	língua
+DBpedia	tem como objetivo inspirar novos mecanismos para criar	linked data
+DBpedia	tem como objetivo inspirar novos mecanismos para criar	navegação na web
+DBpedia	"em 2014 e em inglês, possuia 580 milhões de"	tripla RDF
+DBpedia	em 2014 possuia 3.0 bilhões de	tripla RDF
+DBpedia	"em 2015 e em inglês, possui 737 milhões de"	tripla RDF
+DBpedia	em 2015 possui 6.9 bilhões de	tripla RDF
+DBpedia	é um projeto do movimento colaborativo da	Web Semantica
+DBpedia	permite complexas consultas sobre os informações já coletadas da	Wikipedia
+DBpedia	tem como objetivo extrair e disponibilizar informação estuturada da	Wikipedia
+densidade de uma rede	mede o quão próximo uma rede está para ser	rede completa
+derreferenciável	é a capacidade de se obter uma representação do dado a partir do acesso a sua 	URI
+desigualdade de oportunidades	refletem na desigualdade ao	acesso à informação
+desigualdade de poder	refletem na desigualdade ao	acesso à informação
+desigualdade de riquesa	refletem na desigualdade ao	acesso à informação
+diagramas de fluxo	tem caracterísitcas determinantes tais como	sequencialidade
+diagramas de fluxo	tem caracterísitcas determinantes tais como	temporalidade
+diâmetro da rede	é a média entre todoas as	distância entre dois nós
+diferenciação progressiva	gera	reconciliação integrativa
+diferenciação progressiva	ocorre a partir da modificação dos	subsunçor
+disciplina (educacional)	normalmente atua dentro de uma	área do conhecimento
+disseminação de informações	"quando feita por dados ligados, possibilita a criação de"	campos de aplicação
+disseminação de informações	"quando feita por dados ligados, possibilita a criação de"	conhecimento
+disseminação de informações	"quando feita por dados ligados, possibilita a criação de"	ideias
+disseminação de informações	"quando feita por dados ligados, possibilita a criação de"	serviços diferenciados
+distância entre dois nós	é o menor	caminho entre dois nós
+distância entre dois nós	também conhecida por	caminho geodésico
+distância entre dois nós	também conhecida por	distância geodésica
+distância entre dois nós	é a menor quantidade possível de ligações existentes entre dois	nó da rede
+distância entre dois nós	também conhecida por	shortest path length
+distribuição binomial	"quando de aumenta a qtde de ocorrências, converge para"	distribuição de Poisson
+distribuição de Poisson	"quando de aumenta a qtde de ocorrências, converge para"	distribuição normal
+distribuição normal	foi introduzida por Abraham de Moivre em	1733
+distribuição normal	segue a	curva do sino
+distribuição normal	conhecida também por	distribuição de Gauss
+distribuição normal	conhecida também por	distribuição Gaussiana
+distribuição normal	é uma das mais importantes distribuições da	Estatística
+documentos relevantes na base	são documentos que satisfazem uma necessiade informacional do	usuário
+Dublin Core	foi estabelecido em concenso de grupos interdisciplinares	bibliotecário
+Dublin Core	foi estabelecido em concenso de grupos interdisciplinares	cientista da computação
+Dublin Core	possui 15 tipos de	elemento semântico
+Dublin Core	possui site	http://dublincore.org/
+Dublin Core	usa identificador	ISSBN
+Dublin Core	tem como objetivo oferecer uma coleção básica de	metadados
+Dublin Core	foi estabelecido em concenso de grupos interdisciplinares	museólogo
+Dublin Core	é um conjunto de dados usados na descrição de	recurso eletrônico
+Dublin Core	usa identificador	URI
+Dublin Core	é um projeto do movimento colaborativo da	Web Semantica
+eccentricity	conhecido por	excentricidade
+efeitos da informação	é uma 	propriedade geral da informação
+eigenvalue	é um	índice de centralidade
+eigenvector	também conhecido por 	centralidade de autovetor
+eigenvector	também conhecido por 	centralidade de vetor próprio
+eigenvector	também conhecido por 	eigenvector
+eigenvector	a quantidade de nós importantes que o  referenciam é o que determina a	importância de um nó
+eigenvector	é um	índice de centralidade
+eigenvector	é uma	métrica de rede
+eigenvector	é o quanto um determinado nó é referenciado por outros importantes	nó da rede
+eigenvector	é uma métrica de	rede
+embed	é um tipo de tag HTML usada numa página para incorporar	mídias
+embed	em HTML é um tipo de	tag
+enciclopédia online	por exemplo	Britanica Online
+Engenharia da Web	dá suporte à	Ciência da Web
+Engenharia da Web	usa elementos tecnológicos tais como	HTML
+Engenharia da Web	usa elementos tecnológicos tais como	URI
+Engenharia da Web	usa elementos tecnológicos tais como	URL
+Engenharia da Web	usa elementos tecnológicos tais como	URN
+Engenharia da Web	também conhecida por	Web Engineering
+Engenharia da Web	usa elementos tecnológicos tais como	XML
+Engenharia de Software	é uma área da	Ciência da Computação
+Engenharia de Software	é uma área que lida com a	desenvolvimento de sistemas de software
+Engenharia de Software	é uma área que lida com a	especificação de sistemas de software
+Engenharia de Software	"visando a organização, produtividade e qualidade, essa área aplica tecnologias e práticas de"	gerência de projetos
+Engenharia de Software	é uma área que lida com a	manutenção de sistemas de software
+Engenharia de Software	"é uma área que lida com a especificação, desenvolvimento e manutenção de"	sistema de software
+entrevista	é considerado um método simples para criar uma	rede
+Epistemologia	"trata da natureza, etapas e limites do"	conhecimento
+Epistemologia	é um ramo da	Filosofia
+Epistemologia	identificada também como	Filosofia da Ciência
+Epistemologia	estuda as relações que se estabelecem entre o sujeito do conhecimento e o 	objeto do conhecimento
+Epistemologia	estuda as relações que se estabelecem entre o objeto do conhecimento e o 	sujeito do conhecimento
+Epistemologia	também chamada de	teoria do conhecimento
+Epistemologia Social	não consegue oferecer uma fundamentação completa para a	Ciência da Informação
+Epistemologia Social	trabalha com a dimensão social do	conhecimento
+Epistemologia Social	é uma abordagem da	Epistemologia
+Epistemologia Social	foca em papeis sociais e	relacionamentos sociais
+equipamentos	é o mesmo que	hardware
+escalabilidade	é a capacidade em lidar com um grande volume de	dados
+escalabilidade	é um dos maiores desafios atuais da	Web Semantica
+e-Science	normalmente usa	big data
+e-Science	métodos de obtenção de resultados científicos por intermédio da utilização de elementos da	Ciência da Computação
+e-Science	normalmente usa um grande volume de	dados
+e-Science	é 	interdisciplinar
+estrutura social	pertence a	Sociologia
+estudo empírico	"aplicado em redes, permite a descoberta de importantes"	informação
+estudo empírico	é baseado no	método empírico
+estudos de usuários	é o conjunto de estudos que tratam de analisar os hábitos de informação dos	usuário da informação
+estudos de usuários	usa métodos matemáticos e estatísticos para analisar o consumo de informações dos	usuário da informação
+excentricidade	é uma	métrica de rede
+excentricidade	de um nó é a distância dele até o mais distante	nó da rede
+exportação de mapas conceituais	usa vários	formatos de arquivos
+Facebook	é uma	ferramenta de rede social
+Facebook	"em 2013, um experimento determinou que dois indivíduos estão separados por outros 4"	indivíduo
+ferramenta de rede social	é um tipo de 	ferramenta de mídia social
+ferramenta de rede social	o seu aparecimentos foi um dos marcos na	web 2.0
+ferramenta de software	é um	software
+Filosofia da Informação	é uma filosofia fundamental da	análise de informações
+Filosofia da Informação	é objeto de estudos da	Ciência da Informação
+Filosofia da Informação	é uma filosofia fundamental da	design de informações
+Filosofia da Informação	é uma abordagem da	Filosofia
+Filosofia da Informação	faz investigação crítica da estrutura conceitual e dos princípios básicos da	informação
+Filosofia da Informação	para resolver problemas filosóficos usa a aplicação da	metodologias computacionais
+Filosofia da Informação	para resolver problemas filosóficos usa a aplicação da	teoria da informação
+filtragem de nós	é a seleção de nós por intermédio de seus	atributos de um nó
+filtragem de nós	"seleciona nós, por exemplo, pelo"	grau de um nó
+filtragem de nós	"seleciona nós, por exemplo, pelo"	métrica de rede
+filtragem de nós	é uma importante ação feita sobre uma	rede complexa
+Física	é uma	área do conhecimento
+FOAF (friend of a friend)	é um projeto que nasceu no início de	2000
+FOAF (friend of a friend)	possui site	http://www.foaf-project.org/
+FOAF (friend of a friend)	é legível por	máquina
+FOAF (friend of a friend)	é uma 	ontologia
+FOAF (friend of a friend)	faz uso de	OWL
+FOAF (friend of a friend)	descreve	pessoas
+FOAF (friend of a friend)	faz uso de	RDF
+FOAF (friend of a friend)	para descrição de pessoas estabelece um padrão de 	RDF
+FOAF (friend of a friend)	é importante por permitir que máquinas leiam	rede social
+FOAF (friend of a friend)	utilizada para descrição de	rede social
+FOAF (friend of a friend)	é um projeto do movimento colaborativo da	Web Semantica
+folksonomia	é construída a partir do próprio linguajar natural de uma	comunidades web
+folksonomia	é uma maneira de fazer	indexação de informações
+folksonomia	"difere da taxonomia pois o próprio usuário cria, de forma descentralizada, suas"	tag
+folksonomia	é uma analogia a (incluindo 'folks'=pessoas)	taxonomia
+folksonomia	é uma expressão cunhada por	Thomas Vander Wal
+fonte de dados	podem ser	base de dados
+formato de arquivo CSV	é um formato universal usado por muitos softwares que trabalham com	base de conhecimento
+formato de arquivo CSV	é um formato universal usado por muitos softwares que trabalham com	base de dados
+formato de arquivo CSV	significa	comma separated value
+formato de arquivo CSV	é um formato simples e universal usado por muitos	software
+formato de arquivo GEXF	começou a ser projetado em	2007
+formato de arquivo GEXF	foi projetado pela equipe de desenvolvedores do	Gephi
+formato de arquivo GEXF	siginifica	Graph Exchange XML Format
+formato de arquivo GEXF	apresentado em	http://www.gexf.net/format/
+formato de arquivo GEXF	é uma	linguagem de marcação
+formato de arquivo GEXF	é uma linguagem para descrever	rede complexa
+formato de arquivo GEXF	é escrito em	XML
+frase de ligação	pode ser	crosslink
+frase de ligação	é formada por	descrição da ligação
+frase de ligação	é formada por	linha
+frase de ligação	também chamado de	link
+Freemind	é	software free
+gênese da informação	é uma 	propriedade geral da informação
+Gephi	desenvolvido desde	2009
+Gephi	é uma ferramenta para	análise de redes complexas
+Gephi	faz	análise de redes complexas
+Gephi	faz	análise de redes dinâmicas
+Gephi	é uma ferramenta para	análise de redes sociais
+Gephi	faz	análise de redes sociais
+Gephi	"no contexto das redes, permite"	análise pela observação
+Gephi	é uma	ferramenta de software
+Gephi	realiza	filtragem de nós
+Gephi	lê dados a partir de vários	formato de arquivo 
+Gephi	trabalha com 	formato de arquivo CSV
+Gephi	trabalha com 	formato de arquivo GEXF
+Gephi	disponível em	https://gephi.org
+Gephi	escrito em	Java
+Gephi	não é uma	linguagem de programação
+Gephi	roda nos sistemas operacionais	Linux
+Gephi	roda nos sistemas operacionais	Mac OS
+Gephi	calcula várias	métrica de rede
+Gephi	calcula várias	métrica de rede
+Gephi	foi desenvolvido com a plataforma	Netbeans
+Gephi	escrito em	OpenGL
+Gephi	é	opensource
+Gephi	realiza	particionamento de rede
+Gephi	realiza	ranqueamento de nós
+Gephi	bom para visualização dinâmica de	rede complexa
+Gephi	é um	software
+Gephi	é um	software free
+Gephi	permite visualização em	tempo real
+Gephi	roda nos sistemas operacionais	Windows
+Gephi Toolkit	kit para desenvolvedores baseado em rotinas do software	Gephi
+Gephi Toolkit	kit de desenvolvimento de aplicações de redes complexas escrito em	Java
+Gephi Toolkit	conjunto de rotinas para desenvolvimento de aplicações que usam	rede complexa
+Giant Global Graph	conhecido também por 	GGG
+Giant Global Graph	refere-se a descentralização de informações na	internet
+Giant Global Graph	refere-se ao ambiente total de informação que será gerado e mantido através de aplicações da	web 3.0
+Giant Global Graph	ajuda a distinguir a natureza do significado do conteúdo da	world wide web
+Google Chrome	é um	navegador web
+Google+	é uma	ferramenta de rede social
+grafo	é uma estrutura dentro da	Matemática
+grafo	adicionando informações em suas arestas e vértices pode se tornar uma	rede
+grafo	é uma estrutura na Matemática que estuda	relações entre objetos
+grafo de Poisson	possui uma	distribuição de Poisson
+grafo dinâmico	é um tipo de 	grafo
+grafo dinâmico	se modifica ao	longo do tempo
+grafo direcionado	também conhecido por 	dígrafo
+grafo RDF	é um grafo onde os vértices são sujeitos ou objetos e as arestas são	"predicado (propriedade, verbo ou atributo)"
+grafo RDF	conhecido também por 	programa de computador
+grafos aleatórios	tem dois modelos conhecidos e produzidos em	1959
+grafos aleatórios	tem um modelo produzido por	Alfred Renyi
+grafos aleatórios	tem o outro modelo produzido por	Edgar Gilbert
+grafos aleatórios	tem um modelo produzido por	Paul Erdos
+grafos clássicos	também conhecidos por	grafo aleatório binomial
+grafos clássicos	também conhecidos por	grafo de Poisson
+Graph Stream Library	kit de desenvolvimento de aplicações de redes complexas escrito em	Java
+Graph Stream Library	conjunto de rotinas para desenvolvimento de aplicações que usam	rede complexa
+grau de entrada de um nó	é um	índice de centralidade
+grau de entrada de um nó	é o número de conexões que chegam de outros	nó da rede
+grau de entrada de um nó	somente calculadas numa	rede direcionada
+grau de saída de um nó	é um	índice de centralidade
+grau de saída de um nó	é o número de conexões que saem para outros	nó da rede
+grau de saída de um nó	somente calculadas numa	rede direcionada
+grau de um nó	é um	índice de centralidade
+grau de um nó	é o número total de conexões de um nó com outros	nó da rede
+grau de um nó	"se é >=k para toda a rede, a chamamos de"	rede k-core
+hashtag	usado pelo	Facebook
+hashtag	usado pelo	Google+
+hashtag	usado pelo	Instagram
+hashtag	é indexável pelos	mecanismo de busca
+hashtag	é escrito como um '#' seguido de uma	tag
+hashtag	usado pelo	Twitter
+hierarquia conceitual	são muitas vezes referidas como	taxonomia
+hierarquias organizacionais	tem caracterísitcas determinantes tais como	sequencialidade
+hierarquias organizacionais	tem caracterísitcas determinantes tais como	temporalidade
+HTML	liguagem para formatação de	dados da web
+HTML	significa	HyperText Markup Language
+HTML	é uma	linguagem de marcação
+HTML	usada principalmente para criar	página da web
+HTML	foi originalmente proposta por	Tim Berners-Lee
+HTML	apresenta dados da web formatados para o	usuário
+HTML	"apresenta, de maneira formatada ao usuário dados da"	web
+HTTP	significa	HyperText Transfer Protocol 
+HTTP URI	deve ser	derreferenciável
+HTTP URI	é um derreferenciamento de	URI
+IHMC	tem página	http://www.ihmc.us/
+importação de mapas conceituais	usa vários	formatos de arquivos
+incorporação de novo conteúdo às estruturas cognitivas	relacionado com o	conhecimento prévio
+índice de centralidade	é um índice estrutural sobre os	nó da rede
+índice de centralidade	é um índice estrutural sobre uma	rede
+informação	"é algo, ou um objeto físico, que um emissor transmite a um receptor, segundo o"	1º paradigma de evolução da Ciência da Informação: físico
+informação	"é relacionada as estruturas de conhecimento de um usuário, segundo o"	2º paradigma de evolução da Ciência da Informação: cognitivo
+informação	"em conjunto com estruturas preexistentes na memória do indivíduo, pode se transformar em"	conhecimento
+informação	tem sua conceituação dependende do	contexto informacional
+informação	é um conjunto tratado de	dados
+informação	possui um	domínio do conhecimento
+informação	tem sua conceituação dependende do	domínio do conhecimento
+informação	tem como uma das propriedades gerais:	efeitos da informação
+informação	tem como uma das propriedades gerais:	gênese da informação
+informação	é geralmente desejada devido sua contribuição para a alguma atividade	humano
+informação	tem como propriedades gerais:	natureza da informação
+informação	pode ser considerada num	sentido amplo da informação
+informação	pode ser considerada num	sentido estrito da informação
+informação	pode ser considerada num	sentido mais amplo da informação
+Inspiration	é um	editor de mapa conceitual
+Inspiration	é uma	ferramenta de software
+Inspiration	disponível em	http://www.inspiration.com/
+Inspiration	é um	software
+Inspiration	não é	software free
+Instagram	é uma	ferramenta de rede social
+inteligência	é a capacidade de usar	conhecimento
+interação humano-computador	é uma disciplina preocupada com a interação entre sistemas computacionais e 	humano
+interação humano-computador	é uma disciplina preocupada com a interação entre humanos e	sistema de informação
+interface gráfica do usuário	conhecida por	GUI
+Internet Explorer	é um	navegador web
+internet ubíqua	é a presença constante e inteligente da	internet
+interoperabilidade	é a capacidade de combinar diversas	base de conhecimento
+interoperabilidade	demanda uma	comunicação transparente
+interoperabilidade	é a capacidade de combinar diversos conjuntos	dados
+interoperabilidade	possibilita o desenvolvimento de melhores	serviços baseados na plataforma web
+interoperabilidade	possibilita o desenvolvimento de melhores	serviços diferenciados
+interoperabilidade	é a capacidade de comunicação entre vários	sistema de informação
+IRI	"suporta caracteres de outras línguas, diferentes do"	alfabeto latim (A-Z)
+IRI	significa	internationalized resource identifier
+IRI	contém um conjunto extendido de caracteres em relação ao	URI
+Jacob Levy Moreno	idealizou a	Sociometria
+Java	criada em	1995
+Java	pertencente a	C-family of languages
+Java	criada por	James Gosling
+Java	é uma	linguagem de programação
+Java	segue a filosofia	"write once, run anywhere"
+Javascript	criada em	1995
+Javascript	pertencente a	C-family of languages
+Javascript	recebeu influências de	Java
+Javascript	é uma	linguagem de programação
+Javascript	é uma importante tecnologia para produção de conteúdo da	web
+Javascript	segue a filosofia	"write once, run anywhere"
+Jena	é uma API em Java para aplicações de	dados ligados
+Jena	é 	free
+Jena	é uma API em Java usada para criar e manipular	grafo RDF
+Jena	é uma API	Java
+Jena	é	opensource
+Jena	é uma API em Java para aplicações de	Web Semantica
+Joseph Novak	criou os mapas conceituais em	1970
+Joseph Novak	tem ampla pesquisa em 	aprendizagem
+Joseph Novak	tem formação em	Biologia
+Joseph Novak	tem ampla pesquisa na área de representação do	conhecimento
+Joseph Novak	tem ampla pesquisa em 	Educação
+Joseph Novak	tem naturalidade	Estados Unidos
+Joseph Novak	tem formação em	Matemática
+JSON	tem site	http://www.json.org/
+JSON	facil de ler e escrever por	humano
+JSON	é uma linguagem boa para	interoperabilidade
+JSON	é baseado num subconjunto de	Javascript
+JSON	significa	JavaScript Object Notation
+JSON	é fácil de ser criado por	máquina
+KOS	significa	knowledge organization systems
+laços fortes	são estabelecidos com relacionamentos mais próximos e frequentes entre	indivíduo
+nó da rede	produz um	código fonte
+laços fracos	segundo Granovetter remetem a teoria 	A força dos laços fracos
+laços fracos	são estabelecidos com relacionamentos menos próximos e frequentes entre	indivíduo
+laços fracos	oportunizam conexões que podem trazer inovações entre	nó da rede
+lado cliente	"representa uma alicação, por exemplo"	navegador web
+lado cliente	refere-se às operações que são realizadas no lado do cliente num	relacionamento cliente-servidor
+Larry Page	tem formação em	cientista da computação
+Larry Page	tem naturalidade	Estados Unidos
+Larry Page	foi um dos fundadores da	Google Inc.
+Larry Page	produziu o algoritmo	PageRank
+lei da plenitude	também conhecida por	Metcaffe's law
+lei da plenitude	diz que o valor de um produto corresponde a qtde de seus	usuário
+lei da plenitude	diz que a qtde de usuários de um produto é proporcional ao seu	valor do produto
+lei de potência	muito observada no	mundo real
+leitura de um mapa conceitual	é mais complexa quando não é feita pelo	autor do mapa conceitual
+Leonard Euler	conhecido pelo problema	as 7 pontes de Königsberg
+Leonard Euler	tem naturalidade	Hungria
+Leonard Euler	formação	Matemática
+Leonard Euler	fundou a	teoria dos grafos
+ligação direcionada entre nós	"possui uma direção, determinando o nó origem e o nó destino, entre"	ligação entre nós
+ligação direcionada entre nós	liga dois nós em direção ao	nó destino de uma ligação
+ligação direcionada entre nós	liga dois nós a partir de	nó origem de uma ligação
+ligação entre nós	também chamada de	aresta
+ligação entre nós	"também conhecido, na sociologia, por"	relacionamento
+ligações telefônicas	é um exemplo de	rede direcionada
+Linguagem C	é uma	linguagem de programação
+linguagem de consulta	é muito útil para consultar informações em	banco de dados
+linguagem de consulta	é um tipo de 	linguagem
+linguagem de marcação	é um tipo de 	linguagem
+linguagem de programação	é um tipo de 	linguagem
+linha	pode ser	linha direcionada
+linha	podem ser	linha não direcionada
+linked data	"quando ocorre em contexto de dados abertos, dá-se o nome de"	linked open data
+linked open data	é abreviado por 	LOD
+Linkedin	é uma	ferramenta de rede social
+Linux	é um	sistema operacional
+LOD	possui 5 categorias de estrelas	LOD - 1 estrela
+LOD	possui 5 categorias de estrelas	LOD - 2 estrelas
+LOD	possui 5 categorias de estrelas	LOD - 3 estrelas
+LOD	possui 5 categorias de estrelas	LOD - 4 estrelas
+LOD	possui 5 categorias de estrelas	LOD - 5 estrelas
+LOD	projeto que auxiliou a origem da	web de dados
+LOD - 1 estrela	dados disponíveis sobre a 	web
+LOD - 2 estrelas	dados legíveis por	máquina
+LOD - 3 estrelas	possui formato	não proprietário
+LOD - 4 estrelas	usa padrão aberto	RDF
+LOD - 4 estrelas	usa padrão aberto	SPARQL
+LOD - 5 estrelas	por intermédio de RDF dados relacionam-se com outros	dados ligados
+Mac OS	é um	sistema operacional
+mapa conceitual	criados em	1972
+mapa conceitual	auxilia a verificar a evolução de	amadurecimento de um conhecimento
+mapa conceitual	auxilia a verificar a evolução de	aprendizagem
+mapa conceitual	serve para avaliar	aprendizagem
+mapa conceitual	é fundamentado pela	aprendizagem significativa
+mapa conceitual	"tem construção mais complexa por alunos, ao longo de sua vida escolar, sem prática com"	aprendizagem significativa
+mapa conceitual	estabelecer interdisciplinaridade entre várias	área do conhecimento
+mapa conceitual	é recomendável que seja explicado pelo	autor do mapa conceitual
+mapa conceitual	se aproxima do	caos mental
+mapa conceitual	auxilia a	compartilhamento de informações
+mapa conceitual	é formado por	conceito
+mapa conceitual	auxilia a compartilhar	conhecimento
+mapa conceitual	auxilia a construção	conhecimento
+mapa conceitual	auxilia a integração de	conhecimento
+mapa conceitual	auxiliar a contrução cooperativa de	conhecimento
+mapa conceitual	organiza	conhecimento
+mapa conceitual	representa	conhecimento
+mapa conceitual	serve para apresentar um	conhecimento
+mapa conceitual	auxilia a compartilhar	conhecimento confuso
+mapa conceitual	auxilia a esclarecer um	conhecimento confuso
+mapa conceitual	auxilia a identificar	conhecimento confuso
+mapa conceitual	auxilia a compartilhar	conhecimento duvidoso
+mapa conceitual	auxilia a esclarecer um	conhecimento duvidoso
+mapa conceitual	auxilia a identificar	conhecimento duvidoso
+mapa conceitual	auxilia a compartilhar	conhecimento novo
+mapa conceitual	auxilia a estudar um	conhecimento novo
+mapa conceitual	serve para um professor explicar	conhecimento novo
+mapa conceitual	auxilia a identificar o endendimento ruim de um	conteúdo informacional
+mapa conceitual	serve para um professor explicar	conteúdo informacional
+mapa conceitual	serve para organizar um	conteúdo programático
+mapa conceitual	auxilia a análise de	currículo escolar
+mapa conceitual	são equivalentes	diagrama de significado
+mapa conceitual	são diferentes de	diagramas de fluxo
+mapa conceitual	estabelecer interdisciplinaridade entre várias	disciplina (educacional)
+mapa conceitual	apresenta-se como boa possibilidade na	disseminação de informações
+mapa conceitual	auxilia a	disseminação de informações
+mapa conceitual	pode ser criado/editado com	editor de mapa conceitual
+mapa conceitual	auxilia a identificar	entendimento ruim da matéria
+mapa conceitual	é uma	ferramenta gráfica
+mapa conceitual	são formados por	frase de ligação
+mapa conceitual	é uma representação em	grafo
+mapa conceitual	são diferentes de	hierarquias organizacionais
+mapa conceitual	auxilia a compartilhar	ideias
+mapa conceitual	auxiliar a contrução cooperativa de	ideias
+mapa conceitual	"tal como a rede de informação, possui uma rede de relações entre"	informação
+mapa conceitual	auxilia a	interdisciplinaridade
+mapa conceitual	criados por	Joseph Novak
+mapa conceitual	auxilia a	leitura de informações
+mapa conceitual	são equivalentes	mapa cognitivo
+mapa conceitual	são diferentes de	mapa mental
+mapa conceitual	auxilia a	metacognição
+mapa conceitual	possui extenções tal como	modelo orientado a conceitos
+mapa conceitual	são diferentes de	organograma
+mapa conceitual	auxilia a verificar a evolução de	projeto de aprendizagem
+mapa conceitual	são formados por	questão focal
+mapa conceitual	são equivalentes	rede conceitual
+mapa conceitual	é uma	rede de informação
+mapa conceitual	é semelhante a uma	rede de informação
+mapa conceitual	são equivalentes	rede semântica
+mapa conceitual	não posui	sequencialidade
+mapa conceitual	auxilia a fazer	síntese de um texto
+mapa conceitual	não posui	temporalidade
+mapa conceitual	tem a caracterísitica de ser 	ubiquitousness
+mapa conceitual	é	ubíquo
+mapa conceitual	é	universal
+mapa mental	possui	estrutura em árvore
+mapa mental	não possui a riqueza das	frase de ligação
+mapa mental	possui editores tal como	Freemind
+mapeamento de contatos (método para acesso à população desconhecida)	faz-se o mapeamento inverso para descobrir em quem foi o primeiro	contágio
+mapeamento de contatos (método para acesso à população desconhecida)	normalmente aplicado a incidentes relacionados a	doença
+Mark Granovetter	"no contexto das redes, concebeu a famosa teoria"	A força dos laços fracos
+Mark Granovetter	natural de	Estados Unidos
+Mark Granovetter	defendeu a importância dos	laços fracos
+Mark Granovetter	formação em	Sociologia
+mashup	é a combinação integrada de várias	aplicação
+mashup	e a junção de aplicações para criação de outra	aplicação
+mashup	revolucionam o desenvolvimento na	web
+Matemática	é uma	área do conhecimento
+materiais e exemplos claros	devem possuir linguagem relacionada com	conhecimento prévio
+Mecânica Estatísitica	pertence a	Física
+mediação da informação	ação de interferência para satisfazer uma	necessidade informacional do usuário
+mediação da informação	é toda ação de interferência realizada pelo	profissional da informação
+mensagens de email	é um exemplo de	rede direcionada
+metacognição	permite refletir sobre como ocorre a	aprendizagem
+metadados	são dados que descrevem outros	dados
+metalinguagem	é uma linguagem capaz de descrever outras	linguagem
+método empírico	apoiado principalmente por	experiências vividas
+método empírico	apoiado principalmente por	senso comum
+métrica de rede	podem ser calculadas por softwares tais como	Gephi
+métrica de rede	podem ser calculadas por rotinas fornecidas por bibliotecas tais como	Gephi Toolkit
+métrica de rede	podem ser calculadas por rotinas fornecidas por bibliotecas tais como	Graph Stream Library
+métrica de rede	podem ser calculadas por softwares tais como	Pajek
+métrica de rede	é uma importante ação feita sobre uma	rede complexa
+mídia social	tem como exemplo de aplicação	ferramenta de mídia social
+mídia social	usa	ferramenta de mídia social
+mídia social	depende da 	interação entre pessoas
+mídia social	tem como exemplo de aplicação	Wikipedia
+mídia tradicional	não depende da	interação entre pessoas
+mídia tradicional	tem como exemplo	jornal
+mídia tradicional	tem como exemplo	livro
+mídia tradicional	tem como exemplo	rádio
+mídia tradicional	tem como exemplo	televisão
+mineração de dados	possui ténicas tais como	armazenamento em cluster (técnica de mineração de dados)
+mineração de dados	possui ténicas tais como	árvore de classificação (técnica de mineração de dados)
+mineração de dados	pertence a	Ciência da Computação
+mineração de dados	melhora o entendimento de	dados
+mineração de dados	são técnicas para capturar informações de	dados
+mineração de dados	pode ser	mineração de dados direcionada
+mineração de dados	pode ser	mineração de dados não direcionada
+mineração de dados	possui ténicas tais como	regressão (tecnica de mineração de dados)
+mineração de dados	possui ténicas tais como	vizinho mais próximo (técnica de mineração de dados)
+mineração de dados direcionada	tenta prever um	ponto de dados particular
+mineração de dados não direcionada	tenta criar grupos de	dados
+modelagem inferencial	pertence a	Estatística
+modelo Barabasi-Albert	concebido em	1999
+modelo Barabasi-Albert	proposto por	Albert Láslo Barabasi
+modelo Barabasi-Albert	tem como característica	anexação preferencial
+modelo Barabasi-Albert	tem como característica	crescimento da rede
+modelo Barabasi-Albert	gera uma realística	distribuição de grau
+modelo Barabasi-Albert	forte na criação de	hub
+modelo Barabasi-Albert	suporta a exclusão aleatória de alguns	hub
+modelo Barabasi-Albert	tem a rede destruída se todos forem destruídos todos os	hub
+modelo Barabasi-Albert	tem distribuição de grau que segue	lei de potência
+modelo Barabasi-Albert	suporta a exclusão aleatória de alguns	nó da rede
+modelo Barabasi-Albert	gera redes com poucos	nós de maior grau
+modelo Barabasi-Albert	gera redes com muitos	nós de menor grau
+modelo Barabasi-Albert	gera	rede livres de escala
+modelo Barabasi-Albert	tem como aplicação	redes de citação
+modelo Barabasi-Albert	tem como aplicação	redes de rotas de transporte
+modelo Barabasi-Albert	tem como aplicação	redes de sites da internet
+modelo de dados semânticos	representa	dados semânticos
+modelo de dados semânticos	usa	informação semântica
+modelo de dados semânticos	usa conceitos de abstração conhecidos no campo	inteligência artificial
+modelo de dados semânticos	é um	modelo de dados conceituais com informção semântica
+modelo de dados semânticos	é uma abstração que define como armazenar dados relativos	mundo real
+modelo de dados semânticos	descreve o	significado de suas instâncias
+modelo de dados semânticos	facilita a representação de	situações reais do mundo
+modelo de rede	pode ser	modelo Barabasi-Albert
+modelo de rede	pode ser	modelo Erdos-Renyi
+modelo de rede	pode ser	modelo Watz & Strogatz
+modelo de rede	tem como finalidade a representação de	relação de causa e efeito
+modelo de rede	normalmente é projetado para produzir um tipo específico de	topologia de rede
+modelo Erdos-Renyi	surgido em	1959
+modelo Erdos-Renyi	surgido a partir dos trabalhos de 	Alfred Renyi
+modelo Erdos-Renyi	tem como principais vantagens	aplicabilidade
+modelo Erdos-Renyi	tem baixo coeficiente de	clustering
+modelo Erdos-Renyi	"em redes pequenas, converge para"	distribuição binomial
+modelo Erdos-Renyi	"em redes medianas, converge para"	distribuição de Poisson
+modelo Erdos-Renyi	"em redes grandes, converge para"	distribuição normal
+modelo Erdos-Renyi	trabalha com grafos que atualmente são conhecidos por	grafo aleatório binomial
+modelo Erdos-Renyi	trabalha com grafos que atualmente são conhecidos por	grafo de Poisson
+modelo Erdos-Renyi	é um dos dois modelos (o outro foi feito por Edgar Gilbert) mais conhecidos para gerar	grafos aleatórios
+modelo Erdos-Renyi	trabalha com grafos que atualmente são conhecidos por	grafos clássicos
+modelo Erdos-Renyi	não é boa para formação de 	hub
+modelo Erdos-Renyi	não converge para 	lei de potência
+modelo Erdos-Renyi	segue a distribuição Poison para novos	nó da rede
+modelo Erdos-Renyi	tem igual probabilidade para ligar num novo	nó da rede
+modelo Erdos-Renyi	surgido a partir dos trabalhos de 	Paul Erdos
+modelo Erdos-Renyi	tem como principais vantagens	poderoso
+modelo Erdos-Renyi	possui uma	probabilidade constante
+modelo Erdos-Renyi	não segue o modelo	rede livres de escala
+modelo Erdos-Renyi	tem como principais vantagens	simples
+modelo orientado a conceitos	proposto em	1998
+modelo orientado a conceitos	proposto por	Mariano G. Pimentel
+modelo orientado a conceitos	adiciona	outros elementos gráficos
+modelo orientado a conceitos	tenta achar	padrões de dados
+modelo Watz & Strogatz	proposto em	1998
+modelo Watz & Strogatz	tem possibilidades para	clustering
+modelo Watz & Strogatz	não é bom para representar um	crescimento da rede
+modelo Watz & Strogatz	"tem como maior problema, a não realística"	distribuição de grau
+modelo Watz & Strogatz	proposto por	Duncan Watts
+modelo Watz & Strogatz	gera	grafos aleatórios
+modelo Watz & Strogatz	possibilita a formação de	hub
+modelo Watz & Strogatz	resolveu alguns problemas do	modelo Erdos-Renyi
+modelo Watz & Strogatz	tem como exemplo	rede de distribuição de energia
+modelo Watz & Strogatz	tem como exemplo	rede de neurônios ligados pelas sinapses
+modelo Watz & Strogatz	consegue representar o fenômeno	small world
+modelo Watz & Strogatz	quando tem ligações aleatórias adicionadas transforma-se em	small world
+modelo Watz & Strogatz	proposto por	Steven Strogatz
+Modularity Class	é um algoritmo de particionamento uado pelo	Gephi
+Mozilla Firefox	é um	navegador web
+natureza da informação	é uma 	propriedade geral da informação
+navegação na web	pode ser feita com um	navegador web
+navegador web	apresenta dados formatados com	HTML
+necessidade informacional do usuário	é um dos focos da	Ciência da Informação
+necessidade informacional do usuário	tem maior grau de importância do que o foco nos	equipamentos
+necessidade informacional do usuário	tem maior grau de importância do que o foco nos	sistema de informação
+Netbeans	é uma plataforma para uso de várias	linguagem de programação
+Netbeans	é um	software
+Netlogo	disponível em	https://ccl.northwestern.edu/netlogo/
+Netlogo	é uma	linguagem de programação
+Netlogo	bom para simulações de	rede complexa
+Netlogo	é bom para criar	simulador
+Nextbio	integra uma grande quantidade	dados relativos a saúde
+Nextbio	possui site	http://www.nextbio.com
+Nextbio	é um projeto do movimento colaborativo da	Web Semantica
+nó da rede	"também conhecido, na sociologia, por"	ator
+nó da rede	também conhecido por 	vértice
+nó vizinho	faz uma ligação direta com um determinado	nó da rede
+nós de maior grau	são normalmente	hub
+nós de maior grau	são nós da rede com maior número de ligações com outros	nó da rede
+nós de menor grau	são nós da rede com menor número de ligações com outros	nó da rede
+objeto (ou valor)	pode ser um	literal de texto
+objeto (ou valor)	pode ser um	número
+objeto (ou valor)	pode ser um	recurso
+objeto (ou valor)	"se for um recurso, então é também identificado por uma"	URI
+observação direta	pode ser um métoto trabalhoso para criar uma	rede
+ontologia	é utilizada na	Arquitetura da Informação
+ontologia	muito usada como representação de dados para	base de conhecimento
+ontologia	estrutura de forma organizada informações de um determinado	domínio do conhecimento
+ontologia	fornecem um entendimento comum e compartilhado de um 	domínio do conhecimento
+ontologia	é utilizada na	Engenharia de Software
+ontologia	é utilizada em diversas áreas da	informática
+ontologia	o seu uso traz vantagens na	integração de informações
+ontologia	é utilizada na	inteligência artificial
+ontologia	o seu uso traz vantagens na	interoperabilidade
+ontologia	"no contexto da web semântica, é usada para"	marcação de dados
+ontologia	obtem um entendimento semântico de situações do	mundo real
+ontologia	tem conceitos unicamente identificáveis através de	URI
+ontologia	é um dos fatores chave para o desenvolvimento da	Web Semantica
+ontologia	é utilizada na	Web Semantica
+OpenGL	é uma	API
+OpenGL	significa	Open Graphics Library
+opensource	é o mesmo que	código aberto
+Organização da Informação	é um dos focos da	Ciência da Informação
+organograma	tem caracterísitcas determinantes tais como	sequencialidade
+organograma	tem caracterísitcas determinantes tais como	temporalidade
+outros elementos gráficos	para indicar mais precisão nas	proposição
+OWL	serve de suporte para processamentos lógicos tais como	clustering
+OWL	usado na construção de	dados ligados
+OWL	tem site	http://www.w3.org/2001/sw/wiki/OWL
+OWL	serve de suporte para processamentos lógicos tais como	inferência
+OWL	facilita mais a interpretação do conteúdo por	máquina
+OWL	fornece vocabulários para descrever (em termos de classes e suas propriedades)	modelo conceitual
+OWL	é uma linguagem para definir e instanciar	ontologia
+OWL	é bom para construir	vocabulário
+OWL	é uma recomendação da	W3C
+OWL	significa	Web Ontology Language
+OWL	é especialmente vista como importante elemento para implementação da	Web Semantica
+OWL DL	garante que todas as conclusões sejam	computável
+OWL DL	garante que todas as conclusões sejam	conclusiva
+OWL DL	suporta usuários que precisam de máxima	expressividade
+OWL DL	mantém correspondências com	LOD - 5 estrelas
+OWL DL	é uma sublinguagem de	OWL
+OWL DL	é uma extensão da 	OWL Lite
+OWL Full	não oferece garantia de ser	computável
+OWL Full	é uma sublinguagem de	OWL
+OWL Full	é uma extensão da 	OWL DL
+OWL Lite	suporta usuários que precisam principalmente de uma	classificação hierarquica
+OWL Lite	é uma sublinguagem de	OWL
+OWL Lite	tem complexidade menor que	OWL DL
+OWL Lite	tem complexidade menor que	OWL Full
+OWL Lite	boa para migração de	taxonomia
+OWL Lite	boa para migração de	tesauro
+padrão regular de rede	"sobre a exatidão desse termo, a literatura não tem um"	consenso
+PageRank	é semelhante à medida	eigenvector
+PageRank	é usado pelo processo de busca do	Google Inc.
+PageRank	é usado pelo	Google Search
+PageRank	é um algoritmo recursivo para medir a qualidade	nó da rede
+Pajek	disponível em	http://mrvar.fdv.uni-lj.si/pajek/
+Pajek	bom para trabalhar com grandes	rede complexa
+Pajek	robusto para trabalhar com 	rede complexa
+Pajek	é um	software
+particionamento de rede	é um agrupamento por intermédio dos	atributos de um nó
+particionamento de rede	"apesar de também ser um agrupamento, é diferente de um"	clustering
+particionamento de rede	"é um agrupamento feito, por exemplo, pelo"	grau de um nó
+particionamento de rede	"para ser considerado bom, deve se relacionar pouco com outros particionamentos através de"	ligação entre nós
+particionamento de rede	"é um agrupamento feito, por exemplo, pelo"	métrica de rede
+particionamento de rede	"usa algoritmos, tais como"	Modularity Class
+particionamento de rede	é uma importante ação feita sobre uma	rede complexa
+Paul Baran	escreveu sobre sistemas de comunicação distribuída em	1960
+Paul Baran	na década de 60 classificou	"classificação de topologias de rede, por Paul Baran"
+população desconhecida	geralmente é bem  maior do que a 	população conhecida
+precisão	é uma medida de qualidade em RI baseada no percentual de documentos relevantes sobre os	documentos recuperados
+precisão	é uma medida para a	qualidade na Recuperação de Informação
+precisão	é uma medida de qualidade da relevância informacional na	Recuperação de Informação
+precisão	é dependente do conhecimento da	relevância informacional
+"predicado (propriedade, verbo ou atributo)"	é uma	característica
+"predicado (propriedade, verbo ou atributo)"	é um relacionamento específico de um 	recurso
+"predicado (propriedade, verbo ou atributo)"	é identificado por uma	URI
+"predicado (propriedade, verbo ou atributo)"	são representados por	vocabulário RDF
+programa de computador	é um	software
+projeto de dados ligados	possui	1º princípio do projeto de dados ligados
+projeto de dados ligados	possui	2º princípio do projeto de dados ligados
+projeto de dados ligados	possui	3º princípio do projeto de dados ligados
+projeto de dados ligados	possui	4º princípio do projeto de dados ligados
+proposição	é formado por	conceito
+proposição	é formado por	frase de ligação
+Protégé	"guiado por uma ontologia, permite a criação de "	base de conhecimento
+Protégé	permite a entrada e edição de dados numa 	base de conhecimento
+Protégé	é uma	ferramenta de software
+Protégé	permite a personalização de	formulário de entrada de dados
+Protégé	permite a construção de	ontologia
+Protégé	possui um editor para	OWL
+Psicologia Cognitiva	é uma das disciplinas da	Ciência Cognitiva
+Psicologia Cognitiva	estuda os processos que estão por trás do comportamento e a	cognição
+Psicologia Cognitiva	estuda a cognição e os processos mentais que estão por trás do	comportamento
+Psicologia Cognitiva	é uma subárea da	Psicologia
+publicação de dados ligados	requer o fornecimento de metadados para fornecer caracterísitcas de um completo	coleção de triplas RDF
+publicação de dados ligados	requer que a coleção de triplas RDF esteja ligada a outras	coleção de triplas RDF
+publicação de dados ligados	requer que os URIs sejam	derreferenciável
+publicação de dados ligados	requer que se tenha autorização para uso dos	metadados
+publicação de dados ligados	requer que sejam fornecida a procedência dos	metadados
+publicação de dados ligados	requer que sejam oferecidas adicionais	método de acesso a dados
+publicação de dados ligados	requer que sejam amplamente utilizados os 	vocabulário RDF
+publicação de dados ligados	requer que termos de vocabulário proprietário seja mapeados para outros	vocabulário RDF
+qualidade na Recuperação de Informação	é medida principalmente pela	relevância informacional
+questão focal	facilita a	leitura de um mapa conceitual
+questão focal	direciona a construção de um	mapa conceitual
+questão focal	contém um direcionamento de assunto através de uma	questão
+questionário	é considerado um método simples para criar uma	rede
+R (linguagem)	bom para trabalhar com	Estatística
+R (linguagem)	mais voltada para pessoas da área de	Estatística
+R (linguagem)	disponível em	https://www.r-project.org/
+R (linguagem)	é uma	linguagem de programação
+R (linguagem)	roda nos sistemas operacionais	Linux
+R (linguagem)	roda nos sistemas operacionais	Mac OS
+R (linguagem)	robusto para trabalhar com 	rede complexa
+R (linguagem)	é um	software
+R (linguagem)	roda nos sistemas operacionais	Windows
+Ranganathan	escreveu as 5 leis da Biblioteconomia em	1931
+Ranganathan	em 1931 escreveu 	as 5 leis da Biblioteconomia
+ranqueamento de nós	é uma importante ação feita sobre uma	rede complexa
+RDF	lançada em	1999
+RDF	pode ser considerado uma tabela de 3 colunas no contexto de	banco de dados relacional
+RDF	usado na construção de	dados ligados
+RDF	não fornece quaisquer condições espeíficas de	domínio do conhecimento
+RDF	é uma linguagem de alta	escalabilidade
+RDF	tem site	http://www.w3.org/RDF/
+RDF	"no contexto da internet, é uma linguagem para representar"	informação
+RDF	permite a identificação semântica da	informação
+RDF	é um	modelo para descrever dados
+RDF	significa	Resource Description Framework
+RDF	faz a identificação semântica da informação por intermédio da	tripla RDF
+RDF	formado por uma	tripla RDF
+RDF	usa vocabulário baseado em	URI
+RDF	é uma especificação feita pela	W3C
+RDF	é um modelo de dados simples usado na	web
+RDF	possui uma sintaxe baseada em	XML
+RDF Graph	é uma representação gráfica de	RDF
+RDF Schema	serve para criar	conjunto de termos descritivos
+RDF Schema	tem site	http://www.w3.org/TR/rdf-schema/
+RDF Schema	fornece vocabulários para descrever (em termos de classes e suas propriedades)	modelo conceitual
+RDF Schema	serve para descrever	ontologia
+RDF Schema	é uma extensão do	RDF
+RDF Schema	também conhecido por 	RDF(S)
+RDF Schema	também conhecido por 	RDF/S
+RDF Schema	também conhecido por 	RDFS
+RDF Schema	também conhecido por 	RDF-S
+RDF Schema	significa	Resource Description Framework Schema
+RDF Schema	é uma especificação feita pela	W3C
+RDF Store	é uma armazenamento de vários	RDF
+reconciliação integrativa	é um relacionamento entre	conceitos já existentes nas estruturas cognitivas
+Recuperação de Informação	é uma subárea da	Arquitetura da Informação
+Recuperação de Informação	está estabelecida em áreas do conhecimento tais como	Arquitetura da Informação
+Recuperação de Informação	"lida com a busca de informações em diversos lugares, tal como"	banco de dados
+Recuperação de Informação	é um dos focos da	Ciência da Informação
+Recuperação de Informação	está estabelecida em áreas do conhecimento tais como	Ciência da Informação
+Recuperação de Informação	está estabelecida em áreas do conhecimento tais como	comportamento informacional
+Recuperação de Informação	de uma maneira geral é a busca por informações em	documento
+Recuperação de Informação	" lida com o armazenamento de documentos e a recuperação automática, associada a eles, de"	informação
+Recuperação de Informação	"busca informações em documentos, também por intermédio dos seus "	metadados
+Recuperação de Informação	"lida com a busca de informações em diversos lugares, tal como"	mídias
+Recuperação de Informação	está estabelecida em áreas do conhecimento tais como	Projeto da Informação
+Recuperação de Informação	está estabelecida em áreas do conhecimento tais como	Psicologia Cognitiva
+Recuperação de Informação	se difere da área de	Recuperação de Dados
+Recuperação de Informação	se difere da área de	Recuperação de Documentos
+Recuperação de Informação	"lida com a busca de informações em diversos lugares, tal como"	web
+Recuperação de Informação	está estabelecida em áreas do conhecimento tais como	Biblioteconomia
+Recuperação de Informação	está estabelecida em áreas do conhecimento tais como	Linguística
+Recuperação de Informação	está estabelecida em áreas do conhecimento tais como	Semiótica
+Recuperação de Informação	está estabelecida em áreas do conhecimento tais como	Ciência da Computação
+Recuperação de Informação	está estabelecida em áreas do conhecimento tais como	Estatística
+rede	é um grafo com informações inseridas em seus vértices e	aresta
+rede	"o foco não é nos nós, mas na"	estrutura de rede
+rede	é semelhante	grafo
+rede	a simples visualização permite a descoberta de	informação significativa
+rede	são conjuntos de nós concetados por	ligação entre nós
+rede	são conjuntos de conectados	nó da rede
+rede	pode ser do tipo	rede biológica
+rede	pode ser 	rede complexa
+rede	pode ser do tipo	rede de informação
+rede	pode ser do tipo	rede social
+rede	pode ser do tipo	rede tecnológica
+rede	"o foco não é nos nós, mas no"	relacionamento
+rede	é semelhante	sociograma
+rede	é um grafo com informações inseridas em susas arestas e	vértice
+rede	permite a descoberta de informações úteis através da	visualização da informação
+rede aleatória	é representada pelo	modelo Erdos-Renyi
+rede biológica	por exemplo	rede de neurônios ligados pelas sinapses
+rede biológica	é uma	rede livres de escala
+rede biológica	formada por	sistemas biológicos
+rede bipartida	relaciona dois tipos de	ator
+rede bipartida	tem	exemplo de rede bipartida:  produtores e músicos
+rede bipartida	tem	exemplo de rede bipartida: diretores e empresas
+rede bipartida	tem	exemplo de rede bipartida: doenças e remédios
+rede bipartida	tem	exemplo de rede bipartida: professores e alunos
+rede bipartida	tem	exemplo de rede bipartida: usuários e páginas
+rede bipartida	relaciona dois tipos de	nó da rede
+rede bipartida	também conhecida por	rede de afiliação
+rede completa	é uma rede onde então presentes todas as possíveis	ligação entre nós
+rede completa	tem a quantidade máxima N(N-1)/2 de	ligação entre nós
+rede complexa	abrange várias	área do conhecimento
+rede complexa	abrange	Biologia
+rede complexa	possui não trivial	característica topológica
+rede complexa	abrange	Ciência da Computação
+rede complexa	abrange	Física
+rede complexa	é um tipo de 	grafo
+rede complexa	é um tema	interdisciplinar
+rede complexa	abrange	Matemática
+rede complexa	"possui modelos conhecidos, tais como"	modelo Barabasi-Albert
+rede complexa	possui vários	modelo de rede
+rede complexa	"possui modelos conhecidos, tais como"	modelo Erdos-Renyi
+rede complexa	"possui modelos conhecidos, tais como"	modelo Watz & Strogatz
+rede complexa	o que mais a caracteriza são as relações entre os seus	nó da rede
+rede complexa	não segue um	padrão regular de rede
+rede complexa	tem 3 principais modelos	rede aleatória
+rede complexa	pode ser	rede biológica
+rede complexa	pode ser	rede de informação
+rede complexa	tem 3 principais modelos	rede livres de escala
+rede complexa	tem 3 principais modelos	rede pequeno-mundo
+rede complexa	pode ser	rede social
+rede complexa	pode ser	rede tecnológica
+rede complexa	abrange	Sociologia
+rede conceitual	é uma rede onde os nós são	conceito
+rede conceitual	é um tipo de 	rede
+rede conceitual	é uma	rede de informação
+rede de distribuição de água	é um exemplo de	rede tecnológica
+rede de distribuição de energia	é um exemplo de	rede tecnológica
+rede de informação	obtidas a partir de 	base de conhecimento
+rede de informação	"tal como o mapa conceitual, possui uma rede de relações entre"	informação
+rede de informação	também conhecida por	rede de conhecimento
+rede de informação	algumas também pode ser classificadas como 	rede social
+rede de telefonia	é um exemplo que segue a 	lei da plenitude
+rede de telefonia	é um exemplo de	rede tecnológica
+rede dinâmica	ao longo do tempo pode modificar a sua	estrutura de rede
+rede dinâmica	se modifica ao	longo do tempo
+rede dinâmica	é possível modelar o seu crescimento pela análise da variação da sua estrutura ao	longo do tempo
+rede direcionada	é semelhante a um	grafo direcionado
+rede direcionada	é composta por	ligação direcionada entre nós
+rede k-core	é uma rede onde é >=k cada	grau de um nó
+rede k-core	é uma rede com grau >=k em todos os	nó da rede
+rede livres de escala	segue a distribuição pela	lei de potência
+rede livres de escala	é representada pelo	modelo Barabasi-Albert
+rede livres de escala	seguem	modelo exponencial
+rede livres de escala	também conhecida por	rede scale-free
+rede livres de escala	conhecida também por	rede scale-free
+rede livres de escala	conhecida também por	rede sem escala
+rede livres de escala	são boas para representar	sistemas artificiais
+rede livres de escala	são boas para representar	sistemas naturais
+rede pequeno-mundo	é representada pelo	modelo Watz & Strogatz
+rede pequeno-mundo	também conhecida por	rede small-world
+rede social	é um tipo de 	capital social
+rede social	possui o fenômeno	clustering
+rede social	"o foco não é nos indivíduos, mas nos"	estrutura de rede
+rede social	"como não é reducionista, não devem ser analizadas apenas partes, mas a toda"	estrutura de rede
+rede social	usa	ferramenta de rede social
+rede social	é estabelecida pelos relacionamentos existentes entre as	pessoas
+rede social	o que mais a caracteriza são as relações entre as	pessoas
+rede social	não pertence a uma teoria	reducionista
+rede social	é um conjunto de atores com vários	relacionamento
+rede social	"o foco não é nos indivíduos, mas nos"	relacionamento
+rede social	possui o fenômeno	SKOS
+rede social	possui o fenômeno	small world
+rede social	é melhor organizada pela	topologia distribuída
+rede social virtual	é uma rede social no ambiente da	internet
+rede social virtual	é uma	rede social
+rede social virtual	"em compração às redes sociais, tentem a amplificar"	relacionamento
+rede tecnológica	construída pelo homem para distribuir	bens de consumo
+redes de citação	segue o	modelo Barabasi-Albert
+redes de citação	é um exemplo de	rede de informação
+reducionista	são teorias que permitem a sua divisão em partes menores para facilitar a	análise
+regressão (tecnica de mineração de dados)	também conhecido por 	diagrama de dispersão
+regressão (tecnica de mineração de dados)	é provavelmente	método mais fácil de mineração de dados
+regressão (tecnica de mineração de dados)	é provavelmente	método menos poderoso de mineração de dados
+regressão (tecnica de mineração de dados)	transforma dados	previsão numérica para dados futuros
+relacionamento cliente-servidor	retrata o relacionamento numa rede de computadores entre o servidor e o 	lado cliente
+relacionamento cliente-servidor	retrata o relacionamento existente numa	rede de computadores
+relacionamento cliente-servidor	retrata o relacionamento numa rede de computadores entre o lado cliente e o	servidor
+relevância informacional	é um conceito fundamental em	Recuperação de Informação
+relevância informacional	existe em função da	necessidade informacional do usuário
+resistência	é a capacidade de uma rede em resistir a remoções de	nó da rede
+revocação	é uma medida de qualidade em RI baseada no percentual de documentos relevantes sobre os	documentos relevantes na base
+revocação	é uma medida para a	qualidade na Recuperação de Informação
+revocação	é uma medida de qualidade da relevância informacional na	Recuperação de Informação
+revocação	é dependente do conhecimento da	relevância informacional
+Robert Metcaffe	especificou a 'Lei da Plenitude' em	1980
+Robert Metcaffe	tem formação em	Engenharia Elétrica
+Robert Metcaffe	é natural de	Estados Unidos
+Robert Metcaffe	em 1980 especificou a	lei da plenitude
+sabedoria	é construida pelo tempo e capacidade de usar a	inteligência
+segregação	é um conceito referente ao contexto das	rede dinâmica
+sentido amplo da informação	a informação é somente	compreensível por humanos
+sentido amplo da informação	a informação é tratada como algo que envolve diretamente o	processamento cognitivo
+sentido estrito da informação	a informação pe considerada em termos de sinais ou mensagens que envolvam pouco um nenhum	processamento cognitivo
+sentido mais amplo da informação	"a informação não envolve somente mensagens que são cognitivamente tratadas, mas ela é tratada em um"	contexto informacional
+serviços baseados na plataforma web	"tem como um dos principais problemas no contexto dos dados, a grande"	escalabilidade
+servidor	é um sistema de computação que oferece serviços para uma	rede de computadores
+servidor	refere-se às operações que são realizadas no lado do servidor num	relacionamento cliente-servidor
+servidor com acesso público	existem vários mantidos pelo	IHMC
+Shiyali Ramamrita Ranganathan	tem formação em	Biblioteconomia
+Shiyali Ramamrita Ranganathan	tem naturalidade	Índia
+Shiyali Ramamrita Ranganathan	tem formação em	Matemática
+Shiyali Ramamrita Ranganathan	conhecido como	Ranganathan
+símbolo	é um conjunto de	sinal
+sistema de recuperação da informação	é um conjunto de processos com o objetivo de recuperar	documentos relevantes na base
+sistema de recuperação da informação	é um sistema que automatiza o processo de	Recuperação de Informação
+sistema de recuperação da informação	é um conjunto de processos com o objetivo de recuperar documentos com	relevância informacional
+sistema de software	é construído por intermédio de uma	linguagem de programação
+sistema de software	faz parte de um	sistema de informação
+sistema nervoso	é um exemplo de	rede biológica
+sistema vascular	é um exemplo de	rede biológica
+sistemas biológicos	são	sistemas naturais
+Six Degrees of Separation	foi realizado em	1967
+Six Degrees of Separation	"motivou a realização em outros contextos, tais como"	Facebook
+Six Degrees of Separation	"experimento que mostrou que dois indivíduos estão, na média, separadas por 6 outros"	indivíduo
+Six Degrees of Separation	foi um experimento para mostrar nas redes sociais o fenômeno	small world
+SKOS	expressa	hierarquia conceitual
+SKOS	é mais formal do que 	KOS
+SKOS	é um tipo codificável (em RDF) de	KOS
+SKOS	fornece um caminho para representar KOS usando	RDF
+SKOS	construído sobre 	RDF Schema
+SKOS	significa	simple knowledge organization system
+SKOS	é bom para projetar	sistema de gestão de conhecimento
+SKOS	é um	vocabulário
+SKOS	é uma recomendação do 	W3C
+small world	tem aplicações em	Ciência da Computação
+small world	tem aplicações em	Ciências da Terra
+small world	é um fenômeno onde a adição de de algumas ligações numa rede faz ela diminuir muito o	diâmetro da rede
+small world	"a partir de um determinado nó, é a capacidade de se alcançar, em poucos passos, outro"	nó da rede
+small world	também conhecido por 	pequeno mundo
+small world	tem aplicações em	redes neurais
+small world	tem aplicações em	Sociologia
+sociograma	primeiramente implementado na década de	1930
+sociograma	"no contexto de um grupo de pessoas, é uma representação de"	estrutura social
+sociograma	é uma representação da estrutura social de um	grupo de pessoas
+sociograma	primeiramente implementado por	Jacob Levy Moreno
+Sociologia	é uma	área do conhecimento
+Sociologia Clássica	considera um conjunto de atributos e características para o	indivíduo
+Sociologia Clássica	pertence a	Sociologia
+Sociometria	inicialmente concebida por Jabob Moreno em	1934
+Sociometria	estuda relações entre	grupo de pessoas
+Sociometria	"considera relacionamentos sociais, ecnonômicos e culturais para o"	indivíduo
+Sociometria	"num grupo, mede o grau de vinculação entre"	indivíduo
+Sociometria	inicialmente concebida por	Jacob Levy Moreno
+Sociometria	percente a	Sociologia
+Sociometria	"tem foco que vai além do indivíduo, diferindo da"	Sociologia Clássica
+software free	popularmente conhecido por	free
+software free	é um	software
+SPARQL	surgiu em 	2008
+SPARQL	é uma linguagem para	consulta semântica
+SPARQL	usado na construção de	dados ligados
+SPARQL	tem site	http://www.w3.org/2001/sw/wiki/SPARQL
+SPARQL	é uma	linguagem de consulta
+SPARQL	consulta bases formadas por	RDF
+SPARQL	permite obtenção de informações  partir de uma conjunto de	RDF
+SPARQL	é um acrônimo recursivo para	SPARQL Protocol and RDF Query Language
+SPARQL	é uma recomendação do	W3C
+SPARQL	é uma linguagem de consulta para	Web Semantica
+SQL	surgiu em	1974
+SQL	trabalha com	banco de dados relacional
+SQL	é uma	linguagem de consulta
+SQL	significa	structured query language
+Stanley Migran	é autor do famoso experimento	Six Degrees of Separation
+sujeito (ou recurso)	pode ser um	livro
+sujeito (ou recurso)	é qualquer	objeto identificável unicamente
+sujeito (ou recurso)	pode ser um elemento de uma	página da web
+sujeito (ou recurso)	pode ser uma	página da web
+sujeito (ou recurso)	pode ser	pessoas
+sujeito (ou recurso)	é qualquer objeto que possui uma	URI
+swarming	é a capacidade de organização de uma	rede social
+tag	auxilia no compartilhamento de	informação
+tag	é um termo associado a uma	informação
+tag	permite ao usuário recuperar	informação
+tag	é um	marcador
+tag	é uma	palavra chave
+tamanho da rede	é a quantidade de	nó da rede
+taxonomia	é um campo da ciência que engloba	classificação hierarquica
+taxonomia	é um campo da ciência que engloba	descrição
+taxonomia	é um campo da ciência que engloba	identificação
+taxonomia	é um campo da ciência que engloba	nomeclatura
+"técnica do ""esqueleto"""	sugere ao aprendiz um pequeno	mapa conceitual
+"técnica do ""estacionamento"""	sugere ao aprendiz um conjunto de conceitos para iniciar	mapa conceitual
+técnicas e tecnologias (no contexto big data)	requerem formas de integração para descobrir valores escondidos de	"grandes conjuntos de dados que são diversos, complexos e de grande escala"
+teoria da informação	foi concebida por Claude Channon em	1948
+teoria da informação	também conhecida por	teoria matemática da comunicação
+teoria dos grafos	fundada em 	1736
+teoria dos grafos	estuda a relação entre pares numa	estrutura de rede
+teoria dos grafos	pertence a	Matemática
+tesauro	também conhecido por 	dicionário de ideias afins
+tesauro	é uma lista de palavras com significados semelhantes dentro de um	domínio do conhecimento
+Thomas Vander Wal	tem formação em	Arquitetura da Informação
+Thomas Vander Wal	tem naturalidade	Estados Unidos
+Tim Berners-Lee	cunhou o termo web semântica em	1999
+Tim Berners-Lee	cunhou o termo Giant Global Graph em	2007
+Tim Berners-Lee	propôs	5 estrelas para LOD (segundo Tim Berners-Lee)
+Tim Berners-Lee	cunhou o termo	Giant Global Graph
+Tim Berners-Lee	é diretor da	W3C
+Tim Berners-Lee	é fundador da	W3C
+Tim Berners-Lee	autor de	"Weaving the Web (livro, 1999)"
+Tim Berners-Lee	cunhou o termo (em 1999)	Web Semantica
+Tim Berners-Lee	é considerado o inventor da	world wide web
+topologia de rede	é a maneira como se ligam os	nó da rede
+topologia de rede	pode ser	topologia centralizada
+topologia de rede	pode ser	topologia descentralizada
+topologia de rede	pode ser	topologia distribuída
+trabalho cooperativo em mapas conceituais	usa	servidor com acesso privado
+trabalho cooperativo em mapas conceituais	usa	servidor com acesso público
+triângulo completo na rede	é a ligação completa de três	nó da rede
+tripla RDF	formado por	objeto (ou valor)
+tripla RDF	formado por	"predicado (propriedade, verbo ou atributo)"
+tripla RDF	formado por	sujeito (ou recurso)
+Twitter	é uma	ferramenta de rede social
+Twitter	é um	microblog
+URI	cria uma identificação para um	objeto identificável unicamente
+URI	é uma string de caracteres usada para identificar o nome de um	recurso
+URI	significa	universal resource identifier
+URI	na maior parte das vezes é um	URL
+URI	algumas vezes é um	URN
+URL	popularmente conhecida por	endereço web
+URL	na maioria das vezes é representada pelo protocolo	HTTP
+URL	significa	uniform resource locator
+URN	significa	uniform resource name
+URN	complementa com namespace a identificação de um recurso feita por uma	URL
+uso da informação	é qualquer procedimento para aplicação da	informação
+usuário	"é considerado de uma forma inserida em contextos sociais, segundo"	3º paradigma de evolução da Ciência da Informação: social
+usuário	"usando a web 1.0, consulta"	informação
+usuário	"usando a web 2.0, interage com a"	informação
+usuário	"usando a web 3.0, extrai"	informação contextualizada
+usuário	"usando a web 3.0, extrai"	informação personalizada
+usuário	"usando a web 3.0, extrai"	informação significativa
+usuário	pode compartilhar informação usando	tag
+usuário	pode consultar o grau de popularidade de	tag
+usuário	pode recuperar informação usando	tag
+usuário da informação	"é aquele indivíduo que, para desenvolver suas atividades, necessita de"	informação
+usuário da informação	tem sido atualmente o foco no desenvolvimento de	sistema de informação
+usuário da informação	atualmente tem foco maior do que os	sistema de informação
+usuário da informação	"considerando que todo usuário faz uso de informação, pode ser simplemente chamado de"	usuário
+usuário da informação	"na Engenharia de Software, é chamado de"	usuário final
+usuário final	difere do	cliente
+usuário final	nomeclatura usada para usuário da informação na	Engenharia de Software
+usuário final	fornece os detalhes operacionais do	sistema de informação
+usuário potencial	"necessita de informação, porém não é consciente disso e portanto não expressa sua"	necessidade informacional do usuário
+usuário potencial	existem muito mais do que	usuário real
+usuário real	"necessita de informação, é consciente disso e portanto expressa sua"	necessidade informacional do usuário
+Vannevar Bush	concebeu a ideia de hipertexto em	1945
+Vannevar Bush	tem formação em	Engenharia Elétrica
+Vannevar Bush	tem naturalidade	Estados Unidos
+Vannevar Bush	foi um dos pioneiros na concepção da ideia de 	hipertexto
+visualização da informação	pertence a	Ciência da Computação
+vizinho mais próximo (técnica de mineração de dados)	tem uma matemática próxima a	armazenamento em cluster (técnica de mineração de dados)
+vizinho mais próximo (técnica de mineração de dados)	também conhecida por	collaborative filtering
+vizinho mais próximo (técnica de mineração de dados)	permite trabalhar com	dados não numéricos
+vizinho mais próximo (técnica de mineração de dados)	também conhecida por	instance-based learning
+vizinho mais próximo (técnica de mineração de dados)	similar a	regressão (tecnica de mineração de dados)
+vocabulário	"sobre um domínio do conhecimento, é importante ferramenta para organizar"	dados
+vocabulário	é importante ferramenta para organizar dados de um	domínio do conhecimento
+vocabulário RDF	definem conceitos e relações usados para descrever um	domínio do conhecimento
+vocabulário RDF	caracterizam os predicados usados para descrever os dados e relações no modelo	RDF
+vocabulário RDF	são representados por	RDF Schema
+vocabulário RDF	é um tipo de 	vocabulário
+W3C	fundado em	1994
+W3C	tem site	http://www.w3.org/
+W3C	trabalha para criação e divulgação de padrões com o intuito de melhorar a	interoperabilidade
+W3C	emite recomendações para melhoria dos	padrão de dados aberto
+W3C	emite recomendações para melhoria dos	padrões de dados
+W3C	é a principal organização de padronização da	web
+W3C	significa	World Wide Web Consortium
+web	o seu surgumento trouxe significativas mudanças para	dados semânticos
+web	tem como um dos principais problemas atuais a sua grande	escalabilidade
+web	pode ser classificada nas fases	web 1.0
+web	pode ser classificada nas fases	web 2.0
+web	pode ser classificada nas fases	web 3.0
+web	pode ser classificada nas fases	web 4.0
+web 1.0	poucos para produzir informações e muitos para	consumir informações
+web 1.0	tem como exemplo de recurso	enciclopédia online
+web 1.0	tem como ponto forte a apresentação de	informação
+web 1.0	tem como exemplo de recurso	página web pessoal
+web 1.0	muitos para consumir informações e poucos para	produzir informações
+web 2.0	aumentou a preocupação com a experiência do usuário através de tecnologias tais como	Ajax
+web 2.0	tem como exemplo de recurso	blog
+web 2.0	se refere a segunda geração de	comunidades web
+web 2.0	implementa o	consumer-generated media (CGM)
+web 2.0	muitos podem produzir informações e também 	consumir informações
+web 2.0	implantou uma nova forma de ser encarada por	desenvolvedor
+web 2.0	aumentou a preocupação com a experiência do usuário através de tecnologias tais como	embed
+web 2.0	não é uma atualização nas 	especificações técnicas
+web 2.0	possui aplicações baseadas em	folksonomia
+web 2.0	aumentou a preocupação com a experiência do usuário através de tecnologias tais como	mashup
+web 2.0	muitos podem consumir informações e também 	produzir informações
+web 2.0	aumentou as possibilidades para	publicar informações
+web 2.0	possui aplicações baseadas em	rede social
+web 2.0	se refere a segunda geração de	serviços baseados na plataforma web
+web 2.0	implantou uma nova forma de ser encarada por	usuário
+web 2.0	aumentou a preocupação com a experiência do	usuário da informação
+web 2.0	aumentou a preocupação com a experiência do usuário através de tecnologias tais como	widgets
+web 2.0	aumentou a preocupação com a experiência do usuário através de tecnologias tais como	wiki
+web 2.0	tem como exemplo de recurso	wiki
+web 3.0	tem como exemplo de recurso	busca semântica
+web 3.0	"traz, para o usuário  "	informação contextualizada
+web 3.0	"traz, para o usuário"	informação personalizada
+web 3.0	usuário consegue respostas com	informação significativa
+web 3.0	abre mais a	internet
+web 3.0	ponto forte é o aumento das conexões na	internet
+web 3.0	torna mais inteligente a	internet
+web 3.0	tem como exemplo de recurso	semantic social network
+web 3.0	equivale a 	web de significados e conhecimento conectado
+web 4.0	usa	agentes semânticos
+web 4.0	tem com ponto forte	conexão inteligente
+web 4.0	é equivalente a 	internet ubíqua
+web API	é uma (no contexto de desenvolvimento web)	API
+web API	não é uma boa solução para	dados ligados
+web API	usa o protocolo	HTTP
+web API	usa diferentes	interface proprietária
+web API	usa identificadores locais e por isso não é boa para	interoperabilidade
+web API	tem como importante formato estruturado	JSON
+web API	usada para enviar dados para	web
+web API	usada para receber dados da	web
+web API	foi importante para viabilizar a	web de documentos
+web API	tem como importante formato estruturado	XML
+web de dados	"qualquer um pode publicar, pois possui"	acesso aberto
+web de dados	aceita qualquer tipo de 	dados
+web de dados	as entidades estão ligadas por 	RDF
+web de dados	"permite a descoberta de novas fontes de dados em tempo de execução, seguindo os links"	RDF
+web de dados	"tem como origem, os esforços da comunidade de pesquisa"	W3C
+web de dados	tem acesso a dados muito mais fácil do que na	web API
+web de dados	é a evolução da	web de documentos
+web de dados	as vezes é referida na literatura como	Web Semantica
+web de dados	"tem como origem, os esforços da comunidade de pesquisa"	Web Semantica
+Web Semantica	permite que computadores e humanos trabalhem juntos no	acesso à informação
+Web Semantica	usa conhecimentos da area de	big data
+Web Semantica	possui informação	compreensível por humanos
+Web Semantica	possui informação	compreensível por máquinas
+Web Semantica	aumenta a parte do conteúdo da web para ser	compreensível por máquinas
+Web Semantica	pode colaborar com a melhoria do	conhecimento
+Web Semantica	tem grande capacidade em agregar	dados
+Web Semantica	usa a web para criar ligações entre	dados
+Web Semantica	permite a ligação de dados a sucessivos conjuntos de	dados externos
+Web Semantica	pode ser entendida como a web de dados com	dados ligados
+Web Semantica	recentes avanços vem permitindo novas visões sobre a 	Filosofia
+Web Semantica	"sobrepõe, porém não abrange completamente o conceito"	Giant Global Graph
+Web Semantica	permite que os dados seja manipulados por	humano
+Web Semantica	atribui um significado bem definido à	informação
+Web Semantica	permite que os dados seja manipulados por	máquina
+Web Semantica	tem como principal interesse a disponibilização de dados da web para a leitura por	máquina
+Web Semantica	usa conhecimentos da area de	mineração de dados
+Web Semantica	"possui dificuldades para a sua implementação, tais como conseguir fazer"	modelagem unificada do conhecimento
+Web Semantica	usa conhecimentos da area de	ontologia
+Web Semantica	"introduz normas standards, tal como"	OWL
+Web Semantica	pode auxiliar o trabalho colaborativos entre	povos de culturas diferentes
+Web Semantica	pode auxiliar o trabalho colaborativos entre	povos de línguas diferentes
+Web Semantica	depende de cooperação entre	provedor de conteúdo para web
+Web Semantica	"introduz normas standards, tal como"	RDF
+Web Semantica	"introduz normas standards, tal como"	RDF Schema
+Web Semantica	agrega dados pela	semântica
+Web Semantica	"possui dificuldades para a sua implementação, tais como conseguir fazer"	sinergia entre provedores de conteúdo
+Web Semantica	"introduz normas standards, tal como"	SPARQL
+Web Semantica	é a materialização da proposta de	Tim Berners-Lee
+Web Semantica	permite	trabalho cooperativo entre máquinas e humanos
+Web Semantica	considerada como extensão da atual	web
+Web Semantica	é também conhecida por	web 3.0
+Web Semantica	pode ser entendida como os dados ligados na	web de dados
+widgets	é uma pesquena	aplicação
+widgets	é um componente de uma	interface gráfica do usuário
+Wikipedia	é uma	enciclopédia cooperativa online
+Wikipedia	tem site	https://www.wikipedia.org/
+Windows	é um	sistema operacional
+world wide web	lançada em	2001
+world wide web	é um tipo de 	hipertexto
+world wide web	é uma rede que segue o padrão	lei de potência
+world wide web	rede que segue 	modelo Barabasi-Albert
+world wide web	é um exemplo de	rede de informação
+world wide web	é uma	rede livres de escala
+world wide web	popularmente conhecida por	web
+"write once, run anywhere"	"necessário compilar apenas uma vez, pois depois rodará em qualquer lugar que tenha instalada a"	plataforma
+XML	significa	eXtensible Markup Language
+XML	não é boa para representar 	grafo
+XML	é boa para representar	hierarquias
+XML	tem como principal caracterísitca	infraestrutura única para diversas linguagens
+XML	tem como principal objetivo facilitar a 	interoperabilidade
+XML	facilita a geração de	linguagem de marcação
+XML	é uma	metalinguagem
+XML	é uma recomendação da 	W3C
+Youtube	"além de compartilhar vídeos, é também uma"	ferramenta de rede social

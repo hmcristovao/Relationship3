@@ -1,0 +1,6 @@
+1. Ver pasta CXL não reconhecido
+CMAPTOLLS não consegue ler arquvos CXL com short-comment contendo alguns caracteres. Investigar e descobrir essa limitação.
+
+2. Target runtime jre1.8.0.40 is not defined
+In the "project folder\\.settings" open the file: org.eclipse.wst.common.project.facet.core.xml
+Delete the line: <runtime name="jre1.8.0_40"/> 

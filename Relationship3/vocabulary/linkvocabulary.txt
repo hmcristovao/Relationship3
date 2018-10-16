@@ -1,0 +1,60 @@
+// optional line of comment
+
+schoolTradition -> has school tradition
+shortDescription -> has short description
+influenced -> influenced
+influences -> received influences of
+influencedBy -> influenced by
+field -> works in the field
+fields -> works in the fields
+subject	-> has subject
+core#broader -> is broader of
+leaderName	-> is led
+author	-> is author
+genre -> has genre
+core#related -> is related to
+wikiPageDisambiguates -> maybe
+rdf-schema#seeAlso -> see also
+wikiPageRedirects -> see also
+core#broader -> is part of
+mainInterests -> has as main interest
+owl#differentFrom -> is different of
+mainInterest -> has as main interest
+industry -> is a industry of
+locationCountry -> is located in
+nationality -> has the nationality
+birthPlace -> birth place
+placeOfBirth -> birth place
+almaMater -> has alma matter
+deathPlace -> death place
+occupation -> has occupacion
+skills -> has skills
+southwest -> is in the southwest
+southeast -> is in the southeast
+northwest -> is in the northwest
+northeast -> is in the northeast
+south -> is in the south
+north -> is in the north
+west -> is in the west
+east -> is in the east
+
+subdivisionType -> is a subdivision of
+doctoralAdvisor -> had as doctoral advisor
+doctoralStudents -> had as doctoral student
+doctoralStudent -> had as doctoral student
+citizenship -> has citizenship in
+residence -> has residence in
+owner -> is owned by
+knownFor -> is known for
+isPartOf -> is part of
+foundationPlace -> has place foundation
+type -> is a type of
+location -> has location in
+developer -> was developed for
+designer -> was designed for
+
+nonFictionSubject -> is non-fiction subject of
+license -> has license
+focus -> has focus in
+core#subject -> core subject
+notableIdea -> notable idea

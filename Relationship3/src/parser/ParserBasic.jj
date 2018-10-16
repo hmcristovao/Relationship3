@@ -1,0 +1,270 @@
+/*  ParserBasic.jj  -  Process the parsers of the system */ 
+options {
+  DEBUG_PARSER = false;
+  DEBUG_TOKEN_MANAGER = false;
+  STATIC = false;
+}
+PARSER_BEGIN(ParserBasic)
+package parser;
+
+import java.io.*;
+import main.*;
+import user.*;
+import rdf.*;
+import map.*;
+import graph.*;
+import myBase.*;
+
+public class ParserBasic {
+}
+
+PARSER_END(ParserBasic)
+
+SKIP : { "//" : comentario_final }
+<comentario_final>
+SKIP: { "\n" : DEFAULT | <~[]> }
+
+TOKEN : {
+< T_testName :									"testName" > |
+< T_baseDirectory:								"baseDirectory" > |
+< T_dirGraph:									"dirGraph" > |
+< T_dirLog:										"dirLog" > |
+< T_dirConceptMap:								"dirConceptMap" >  |  
+< T_nameUserTermsFile: 							"nameUserTermsFile" > |
+< T_minIterationToVerifyUniqueConnectedComponent: "minIterationToVerifyUniqueConnectedComponent" > |
+< T_minIterationToVerifyRelationshipBetweenOriginalConcepts: "minIterationToVerifyRelationshipBetweenOriginalConcepts" > |
+< T_maxIteration: 								"maxIteration" > |
+< T_additionNewConceptWithoutCategory:			"additionNewConceptWithoutCategory" > |
+< T_kCoreFilter: 								"kCoreFilter" > |
+< T_quantityNodesToApplyKcoreFilter: 			"quantityNodesToApplyKcoreFilter" > |
+< T_nDegreeFilter: 								"nDegreeFilter" > |
+< T_iterationTriggerApplyNDegreeFilterAlgorithm:"iterationTriggerApplyNDegreeFilterAlgorithm" > |
+< T_quantityNodesToApplyNdegreeFilter: 			"quantityNodesToApplyNdegreeFilter" > |
+< T_conceptsQuantityCalculationFactor: 			"conceptsQuantityCalculationFactor" > |
+< T_conceptsMinMaxRange: 						"conceptsMinMaxRange" > |
+< T_proporcionBetweennessOnly: 						"proporcionBetweennessOnly" > |
+< T_proporcionBetweennessCloseness: 			"proporcionBetweennessCloseness" > |
+< T_precisionBetweennessCloseness: 				"precisionBetweennessCloseness" > |
+< T_maxBetweennessCloseness: 					"maxBetweennessCloseness" > |
+< T_proporcionEigenvector: 						"proporcionEigenvector" > |
+< T_precisionEigenvector: 						"precisionEigenvector" > |
+< T_maxEigenvector: 							"maxEigenvector" > |
+< T_isBetweennessCloseness: 					"isBetweennessCloseness" > |
+< T_isEigenvector: 								"isEigenvector" > |
+< T_isSelected: 								"isSelected" > |
+< T_isKeepNeighborsOfOriginalConcepts: 			"isKeepNeighborsOfOriginalConcepts" > |
+< T_quantityNodesShortReport: 					"quantityNodesShortReport" > |
+< T_backGroundcolorOriginalConcept: 			"backGroundcolorOriginalConcept" > |
+< T_borderThicknessConceptWithHint: 			"borderThicknessConceptWithHint" > |
+< T_nameGexfGraphFile: 							"nameGexfGraphFile" > |
+< T_nameQueryDefaultFile: 						"nameQueryDefaultFile" > |
+< T_nameVocabularyFile: 						"nameVocabularyFile" > |
+< T_nameUselessConceptsFile: 					"nameUselessConceptsFile" > |
+< T_nameTxtConceptMapFile: 						"nameTxtConceptMapFile" > |
+< T_nameCxlConceptMapFile: 						"nameCxlConceptMapFile" > |
+< T_nameCompleteReportFile: 					"nameCompleteReportFile" > |
+< T_nameShortReportFile: 						"nameShortReportFile" > |
+< T_nameConsoleReportFile: 						"nameConsoleReportFile" > |
+< T_nameConsoleErrorFile: 						"nameConsoleErrorFile" > |
+< T_dirRdfsPersistenceFiles: 					"dirRdfsPersistenceFiles" > |
+< T_dbpediaServer: 								"dbpediaServer" > |
+< T_gephiVisualization: 						"gephiVisualization" > |
+< T_graphStreamVisualization: 					"graphStreamVisualization" > |
+< T_isFixBugInGephiToolKit: 					"isFixBugInGephiToolKit" > |
+< T_originalConceptWithGephiToolKitBug0: 		"originalConceptWithGephiToolKitBug0" > |
+< T_originalConceptWithGephiToolKitBug1: 		"originalConceptWithGephiToolKitBug1" > |
+< T_originalConceptWithGephiToolKitBug2: 		"originalConceptWithGephiToolKitBug2" > |
+< T_originalConceptWithGephiToolKitBug3: 		"originalConceptWithGephiToolKitBug3" > |
+< T_originalConceptWithGephiToolKitBug4: 		"originalConceptWithGephiToolKitBug4" > |
+< T_originalConceptWithGephiToolKitBug5: 		"originalConceptWithGephiToolKitBug5" > |
+< T_originalConceptWithGephiToolKitBug6: 		"originalConceptWithGephiToolKitBug6" > |
+< T_originalConceptWithGephiToolKitBug7: 		"originalConceptWithGephiToolKitBug7" > |
+< T_originalConceptWithGephiToolKitBug8: 		"originalConceptWithGephiToolKitBug8" > |
+< T_originalConceptWithGephiToolKitBug9: 		"originalConceptWithGephiToolKitBug9" > |
+< T_isEnableUselessTable:						"isEnableUselessTable" > |
+< T_isUniqueConnectedComponentToApplyNdegreeFilter: "isUniqueConnectedComponentToApplyNdegreeFilter" > |
+< T_nameMyKnowledgeBaseFile:                    "nameMyKnowledgeBaseFile" > |
+< T_knowledgeBasePlace:                         "knowledgeBasePlace" > |
+< T_maxLineLengthConcept:                       "maxLineLengthConcept" > |
+< T_maxLineLengthLinkPhrase:					"maxLineLengthLinkPhrase" >
+}
+
+TOKEN : {
+      < EQUALS:             (" "|"\t")* "=" (" "|"\t")* > |
+      < NEW_LINE:           ( "\n" | "\r" )+ > |
+      < TAB:                ( "\t" )+ > |
+      < BLANK:              " " > 
+ }
+
+
+TOKEN : {
+      < ARROW:              "->" > |
+      < #COMMON_CHARACTER:  [ "a"-"z","A"-"Z","0"-"9",".","(",")","á","é","í","ó","ú","â","ê","ô","ã","õ","ñ","à","ç","º","ª" ] > |
+      < #SPECIAL_CHARACTER: [ "-","_",":","#","\'","/","\\","%","?" ] > |
+      < TERM:               < COMMON_CHARACTER > 
+                            (
+                              ( < COMMON_CHARACTER > | < SPECIAL_CHARACTER > | < BLANK > )*
+                              < COMMON_CHARACTER >
+                            )?
+      > |
+      < SEPARATORS:         ( "," | ";" )+ > 
+ }
+/*
+Grammar (read of user terms):
+parseUserTerms        ->  ( elementUserTerm() )*  < EOF > 
+element               ->  < TERM > ( < SEPARATORS > | < BLANK > | < TAB > | <  NEW_LINE > )*
+
+Grammar (read of link vocabulary):
+parseSystemVocabulary ->  ( line() )*  < EOF >
+line                  ->  < TERM > ( < BLANK > | < TAB > )* < ARROW > ( < BLANK > | < TAB > )* < TERM > ( < BLANK > | < TAB > | <  NEW_LINE >  )*
+
+Grammar (read of useless concepts):
+parseUserTerms        ->  ( elementUselessConcept() )*  < EOF > 
+elementUselessConcept ->  < TERM > ( < SEPARATORS > | < BLANK > | < TAB > | <  NEW_LINE >  )*
+
+*/
+
+// list of user terms, separate for comma or new line 
+void parseConfigurations(ConfigTable configTable) : {Token tokenVar; Token tokenValue; String testName;} 
+{
+(
+  < NEW_LINE >
+  |
+  < TAB > 
+  | 
+  < BLANK > 
+  | 
+  (
+    (
+    tokenVar=< T_testName > |  
+	tokenVar=< T_minIterationToVerifyUniqueConnectedComponent > |
+	tokenVar=< T_minIterationToVerifyRelationshipBetweenOriginalConcepts > |
+	tokenVar=< T_maxIteration > |
+	tokenVar=< T_additionNewConceptWithoutCategory > |
+	tokenVar=< T_kCoreFilter > |
+	tokenVar=< T_quantityNodesToApplyKcoreFilter >  |
+	tokenVar=< T_nDegreeFilter >  |
+	tokenVar=< T_iterationTriggerApplyNDegreeFilterAlgorithm >  |
+	tokenVar=< T_quantityNodesToApplyNdegreeFilter >  |
+	tokenVar=< T_conceptsQuantityCalculationFactor >  |
+	tokenVar=< T_conceptsMinMaxRange >  |
+	tokenVar=< T_proporcionBetweennessOnly >  |
+	tokenVar=< T_proporcionBetweennessCloseness >  |
+	tokenVar=< T_precisionBetweennessCloseness >  |
+	tokenVar=< T_maxBetweennessCloseness >  |
+	tokenVar=< T_proporcionEigenvector >  |
+	tokenVar=< T_precisionEigenvector >  |
+	tokenVar=< T_maxEigenvector >  |
+	tokenVar=< T_isBetweennessCloseness >  |
+	tokenVar=< T_isEigenvector >  |
+	tokenVar=< T_isSelected >  |
+	tokenVar=< T_isKeepNeighborsOfOriginalConcepts >  |
+	tokenVar=< T_quantityNodesShortReport >  |
+	tokenVar=< T_backGroundcolorOriginalConcept >  |
+	tokenVar=< T_borderThicknessConceptWithHint >  |
+	tokenVar=< T_nameQueryDefaultFile >  |
+	tokenVar=< T_nameVocabularyFile >  |
+	tokenVar=< T_nameUselessConceptsFile >  |
+	tokenVar=< T_dirRdfsPersistenceFiles >  |
+	tokenVar=< T_dbpediaServer >  |
+	tokenVar=< T_gephiVisualization >  |
+	tokenVar=< T_graphStreamVisualization >  |
+	tokenVar=< T_isFixBugInGephiToolKit >  |
+	tokenVar=< T_originalConceptWithGephiToolKitBug0 > |
+	tokenVar=< T_originalConceptWithGephiToolKitBug1 > |
+	tokenVar=< T_originalConceptWithGephiToolKitBug2 > |
+	tokenVar=< T_originalConceptWithGephiToolKitBug3 > |
+	tokenVar=< T_originalConceptWithGephiToolKitBug4 > |
+	tokenVar=< T_originalConceptWithGephiToolKitBug5 > |
+	tokenVar=< T_originalConceptWithGephiToolKitBug6 > |
+	tokenVar=< T_originalConceptWithGephiToolKitBug7 > |
+	tokenVar=< T_originalConceptWithGephiToolKitBug8 > |
+	tokenVar=< T_originalConceptWithGephiToolKitBug9 > |
+	tokenVar=< T_isEnableUselessTable >  |
+	tokenVar=< T_baseDirectory > |
+	tokenVar=< T_dirGraph > |
+	tokenVar=< T_dirLog > |
+	tokenVar=< T_dirConceptMap > |
+	tokenVar=< T_isUniqueConnectedComponentToApplyNdegreeFilter > |
+	tokenVar=< T_nameMyKnowledgeBaseFile > |
+	tokenVar=< T_knowledgeBasePlace > |
+	tokenVar=< T_maxLineLengthLinkPhrase > |
+	tokenVar=< T_maxLineLengthConcept >
+    )
+    < EQUALS > tokenValue = < TERM > 
+    { WholeSystem.configTable.insert(tokenVar.image, tokenValue.image.trim()); }
+  )
+  |
+  (
+    (
+	tokenVar=< T_nameUserTermsFile >       |
+	tokenVar=< T_nameGexfGraphFile >       |
+	tokenVar=< T_nameCompleteReportFile >  |
+	tokenVar=< T_nameShortReportFile >     |
+	tokenVar=< T_nameConsoleReportFile >   | 
+	tokenVar=< T_nameConsoleErrorFile >    |
+	tokenVar=< T_nameTxtConceptMapFile >   |
+	tokenVar=< T_nameCxlConceptMapFile >   
+    )
+    < EQUALS > tokenValue = < TERM >
+    {
+	  testName = WholeSystem.configTable.getString("testName");	
+      WholeSystem.configTable.insert(tokenVar.image, tokenValue.image.trim().replace("##",testName));
+    }    
+  )
+)*
+}
+
+// user terms
+void parseUserTerms(SetQuerySparql originalSetQuerySparql) : {} 
+{
+    ( elementUserTerm(originalSetQuerySparql) )+
+    < EOF >
+}
+void elementUserTerm(SetQuerySparql originalSetQuerySparql) : {Token token; Concept concept;}  
+{
+    ( < SEPARATORS > | < BLANK > | < TAB >  | <  NEW_LINE > )*
+	token = < TERM >
+    {
+		concept = new Concept(token);
+		originalSetQuerySparql.insertQuerySparql(concept);
+		// copy the concept to static attribute in root class:
+		WholeSystem.getConceptsRegister().add(concept);			
+    }
+    ( < SEPARATORS > | < BLANK > | < TAB >  | <  NEW_LINE > )*
+}
+
+
+// list of sentences, each one per line 
+void parseSystemVocabulary(VocabularyTable vocabularyTable) : {} 
+{
+    ( line(vocabularyTable) )*
+    < EOF >
+}
+void line(VocabularyTable vocabularyTable) : {Token tokenLeft; Token tokenRight;}  
+{
+    ( < BLANK > | < TAB > | <  NEW_LINE > )*
+	tokenLeft = < TERM > ( < BLANK > | < TAB > )* < ARROW > ( < BLANK > | < TAB > )* tokenRight = < TERM > 
+    {
+		vocabularyTable.put(tokenLeft,tokenRight);
+    }
+    ( < BLANK > | < TAB > | <  NEW_LINE > )*
+}
+
+
+// list of concepts, separate for comma or new line
+void parseUselessConcepts() : {} 
+{
+    ( elementUselessConcept() )*
+    < EOF >
+}
+void elementUselessConcept() : {Token token;}  
+{
+    ( < SEPARATORS > | < BLANK > | < TAB > | <  NEW_LINE > )*
+	token = < TERM >
+    {
+		// copy the useless concept to static attribute in root class:
+		WholeSystem.getUselessConceptsTable().insert(token.image.trim());			
+    }
+    ( < SEPARATORS > | < BLANK > | < TAB > | <  NEW_LINE > )*
+}

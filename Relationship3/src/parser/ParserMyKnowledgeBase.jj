@@ -1,0 +1,55 @@
+/*  ParserMyKnowledgeBase.jj  -  it only work with my knowledge base */ 
+options {
+  DEBUG_PARSER = false;
+  DEBUG_TOKEN_MANAGER = false;
+  STATIC = false;
+}
+PARSER_BEGIN(ParserMyKnowledgeBase)
+package parser;
+
+import java.io.*;
+import main.*;
+import user.*;
+import rdf.*;
+import map.*;
+import graph.*;
+import myBase.*;
+
+public class ParserMyKnowledgeBase {   
+}
+
+PARSER_END(ParserMyKnowledgeBase)
+
+SKIP : { "//" : comentario_final }
+<comentario_final>
+SKIP: { "\n" : DEFAULT | <~[]> }
+
+
+TOKEN : {
+
+      < NEW_LINE:    ( "\n" | "\r" )+ > |
+      < TAB:         ( "\t" )+ > |
+
+      < STRING:      ( ~["\t","\n","\r"] )+
+      > 
+ }
+
+
+// list of RDFs belongs to my knowledge base - values separated for TAB, and RDFs separated for new line
+void parseMyKnowledgeBase() : {} 
+{
+    ( elementMyKnowledgeBase() )*
+    < EOF >
+}
+void elementMyKnowledgeBase() : {Token tokenSubject; Token tokenPredicate; Token tokenObject; String predicate; }  
+{
+    tokenSubject   = < STRING > < TAB >
+    tokenPredicate = < STRING > < TAB > 
+    tokenObject    = < STRING > 
+    ( < NEW_LINE > )*
+    {
+	   WholeSystem.getMyKnowledgeBase().insert(tokenSubject.image.trim(), tokenPredicate.image.trim(), tokenObject.image.trim());			
+    }
+}
+
+  

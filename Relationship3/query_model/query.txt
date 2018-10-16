@@ -1,0 +1,50 @@
+#PREFIX owl: <http://www.w3.org/2002/07/owl#>
+#PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+#PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+#PREFIX dc: <http://purl.org/dc/elements/1.1/>
+#PREFIX : <http://dbpedia.org/resource/>
+#PREFIX dbpedia: <http://dbpedia.org/>
+#PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+PREFIX relationship: <http://relationship/>
+
+CONSTRUCT {
+   <http://dbpedia.org/resource/#######> ?predicate ?object .
+   ?subject ?predicate2 <http://dbpedia.org/resource/#######> .
+   <http://dbpedia.org/resource/#######> relationship:homepage ?homepage . 
+   <http://dbpedia.org/resource/#######> relationship:comment ?comment . 
+   <http://dbpedia.org/resource/#######> relationship:abstract ?abstract . 
+   <http://dbpedia.org/resource/#######> relationship:image ?image . 
+}
+WHERE {
+   { 
+      <http://dbpedia.org/resource/#######> ?predicate ?object . 
+      FILTER regex(?object, "http://dbpedia.org/resource/")
+   }
+   UNION
+   { 
+      ?subject ?predicate2 <http://dbpedia.org/resource/#######> .
+      FILTER regex(?subject, "http://dbpedia.org/resource/")
+   }
+   UNION
+   { 
+      <http://dbpedia.org/resource/#######> foaf:isPrimaryTopicOf ?homepage .   
+   }
+   UNION
+   { 
+      <http://dbpedia.org/resource/#######> rdfs:comment ?comment .
+      FILTER(lang(?comment)="en")   
+   }
+   UNION
+   { 
+      <http://dbpedia.org/resource/#######> <http://dbpedia.org/ontology/abstract> ?abstract .
+      FILTER(lang(?abstract)="en")   
+   }
+   UNION
+   { 
+      <http://dbpedia.org/resource/#######> <http://dbpedia.org/property/image> ?image .
+      FILTER(lang(?image)="en")   
+   }
+}

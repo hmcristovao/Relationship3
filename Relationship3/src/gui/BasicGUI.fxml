@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.BasicGUIController">
+   <children>
+      <SplitPane dividerPositions="0.12206572769953052" prefHeight="720.0" prefWidth="1280.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <Button fx:id="saveButton" layoutX="14.0" layoutY="564.0" mnemonicParsing="false" onAction="#save" prefWidth="125.0" text="Save Graph" />
+                  <Button fx:id="loadButton" layoutX="14.0" layoutY="595.0" mnemonicParsing="false" onAction="#load" prefWidth="125.0" text="Load Graph" />
+                  <Button fx:id="startButton" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#startGraph" prefHeight="25.0" prefWidth="125.0" text="Start" />
+                  <ColorPicker fx:id="selectColor" layoutX="12.0" layoutY="187.0" onAction="#changeColor" />
+                  <Label layoutX="14.0" layoutY="93.0" text="Mouse Mode:" />
+                  <Label layoutX="12.0" layoutY="170.0" text="Color:" />
+                  <ComboBox fx:id="mouseModeSelection" layoutX="11.0" layoutY="110.0" onAction="#selectMouseMode" prefHeight="25.0" prefWidth="125.0" />
+                  <Label layoutX="15.0" layoutY="45.0" text="Layout:" />
+                  <ComboBox fx:id="layoutSelection" layoutX="14.0" layoutY="62.0" onAction="#selectLayout" prefHeight="25.0" prefWidth="125.0" />
+                  <Button fx:id="savePDF" layoutX="14.0" layoutY="643.0" mnemonicParsing="false" onAction="#saveGraphInPDF" prefHeight="25.0" prefWidth="125.0" text="Save PDF" />
+                  <Button fx:id="saveSVG" layoutX="14.0" layoutY="679.0" mnemonicParsing="false" onAction="#saveGraphInSVG" prefHeight="25.0" prefWidth="125.0" text="Save SVG" />
+                  <CheckBox fx:id="highlight" layoutX="10.0" layoutY="246.0" mnemonicParsing="false" onAction="#highlight" text="Highlight relations" />
+                  <CheckBox fx:id="keepPainting" layoutX="10.0" layoutY="221.0" mnemonicParsing="false" onAction="#changeColor" text="Paint on click" />
+                  <Separator layoutX="11.0" layoutY="273.0" prefHeight="3.0" prefWidth="132.0" />
+                  <Label layoutX="12.0" layoutY="283.0" text="Edges" />
+                  <Separator layoutX="11.0" layoutY="144.0" prefHeight="3.0" prefWidth="132.0" />
+                  <Label layoutX="11.0" layoutY="147.0" text="Vertex" />
+                  <CheckBox fx:id="gradientEdges" layoutX="12.0" layoutY="314.0" mnemonicParsing="false" onAction="#applyGradientEdges" text="Gradient" />
+                  <Label layoutX="12.0" layoutY="342.0" text="Shape:" />
+                  <CheckBox fx:id="qCurve" layoutX="9.0" layoutY="359.0" mnemonicParsing="false" onAction="#changeEdgeShapeQ" text="Quadratic Curve" />
+                  <CheckBox fx:id="cCurve" layoutX="8.0" layoutY="384.0" mnemonicParsing="false" onAction="#changeEdgeShapeC" text="Cubic Curve" />
+                  <CheckBox fx:id="oCurve" layoutX="8.0" layoutY="408.0" mnemonicParsing="false" onAction="#changeEdgeShapeO" text="Orthogonal" />
+                  <CheckBox fx:id="sCurve" layoutX="9.0" layoutY="432.0" mnemonicParsing="false" onAction="#changeEdgeShapeS" text="Straight" />
+                  <Separator layoutX="13.0" layoutY="509.0" prefHeight="3.0" prefWidth="132.0" />
+                  <Label layoutX="21.0" layoutY="532.0" text="Persistence" />
+               </children>
+            </AnchorPane>
+          <AnchorPane fx:id="graphDisplayPane" minHeight="0.0" minWidth="0.0" prefHeight="718.0" prefWidth="1138.0" />
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>
