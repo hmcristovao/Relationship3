@@ -1,10 +1,12 @@
-# Relationship (versão 3)
+# Relationship 
 
-Sistema de recuperação de informação sobre a base de dados ligados da DBpedia usando técnicas de análise de redes complexas e visualização de conhecimento por intermédio de amapas conceituais.
+Sistema de recuperação de informação sobre a base de dados ligados da DBpedia usando técnicas de análise de redes complexas e visualização de conhecimento por intermédio via maapas conceituais.
 
 ## Versão 3:
 
-Essa versão usa a biblioteca antiga do Gephi Tool Kit (de 2013). Possui acréscimo de interface gráfica para saída dos mapas conceituais intermediários, porém ainda não integrada no fluxo de execução default. 
+Essa versão usa a biblioteca antiga do Gephi Tool Kit (de 2013). 
+Possui acréscimo de interface gráfica para saída dos mapas conceituais intermediários, porém ainda não integrada no fluxo de execução default. 
+
 Em desenvolvimento:
 * interface gráfica para entrada dos termos de busca com auto-complete pela base de dados ligados da DBpedia offline.
 * uso de conteinerização.
@@ -37,20 +39,22 @@ Initial branch: (escolha o branch mais atual)
 Obs.: o download completo demora muitos minutos.
 > Import existing Eclipse projects > Next > Finish
 
-### 4º) Tornar as bibliotecas visíveis pelo projeto (talvez isso não seja necessário, pois é possível que todas as libs estejam linkadas):
+### 4º) Configuração das bibliotecas para tornarem visíveis no projeto
+Obs.: talvez isso não seja necessário, pois é possível que todas as libs já estejam linkadas.
 > Project > Properties > Java Build Path > Libraries > Add JARs…
 abra o Projeto Relationship e o diretório lib
 selecione todos os arquivos JARs de cada biblioteca (somente arquivos JAR)
 > OK > Apply
 
-### 5ª) Compilar normalmente (a primeira vez demora bastante)
+### 5ª) Compilar normalmente
+Obs.: a primeira vez demora bastante.
 
 ### 6º) Execução:
 * na janela “Select Java Aplication”, indique “Main.mainProcess”
 * configure o diretório de saída no Config.txt
 // Base directory to creation of output files:
 baseDirectory = C:\\Users\\Henrique\\Documents\\Relationship
-Observe que no Linux usa-se // e no Windows \\
+Observe que no Linux usa-se // e no Windows \\\
 
 ### 7º) Visualize o mapa conceitual final por intermédio do arquivo de extensão CLX.
 Ele pode ser aberto pelo CmapTools.
