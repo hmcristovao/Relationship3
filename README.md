@@ -1,6 +1,6 @@
 # Relationship 
 
-Sistema de recuperação de informação sobre a base de dados ligados da DBpedia usando técnicas de análise de redes complexas e visualização de conhecimento por intermédio via maapas conceituais.
+Sistema de recuperação de conhecimento sobre a base de dados ligados da DBpedia usando técnicas de análise de redes complexas e visualização de conhecimento por intermédio de mapas conceituais.
 
 ## Versão 3:
 
@@ -15,10 +15,11 @@ Em desenvolvimento:
 
 Obs.: 
 * necessária conta no GitHub e o compartilhamento do projeto com essa conta.
-* anotações realizadas com Eclipse versão Photon (version 4.8 em set-2018)
+* anotações realizadas considerando-se o ambiente Eclipse versão Photon (version 4.8 em set-2018)
 
 ### 1º) Intalação do Eclipse
 http://www.eclipse.org
+
 Pacote: "Eclipse IDE for Java EE Developers" pois já vem com o EGIT e com o Marketplace (módulo que facilita a instalação de plugins).
 
 ### 2º) Instalação do Plugin Javacc no Eclipse
@@ -26,38 +27,57 @@ Pacote: "Eclipse IDE for Java EE Developers" pois já vem com o EGIT e com o Mar
 
 ### 3º) Importação do projeto Relationship que está no GitHub
 No Eclipse: File > Import > Git > Projects from Git > Next > Clone URI > Next
+
 URI: https://github.com/hmcristovao/Relationship3
 (preencha o que estiver faltando...)
-> Next
+
+\> Next 
+
 Na janela Branch Selection, selecione master e todos os branches.
-> Next
+
+\> Next
+
 Na janela - Local Destination: 
+
 Directory: (informe o diretório local base onde será criado o diretório que irá receber o projeto)
+
 Initial branch: (escolha o branch mais atual)
-> Next
-> Finish
+
+\> Next
+
+\> Finish
+
 Obs.: o download completo demora muitos minutos.
-> Import existing Eclipse projects > Next > Finish
 
-### 4º) Configuração das bibliotecas para tornarem visíveis no projeto
+\> Import existing Eclipse projects > Next > Finish
+
+### 4º) Disponibilização das bibliotecas necessárias ao projeto
 Obs.: talvez isso não seja necessário, pois é possível que todas as libs já estejam linkadas.
-> Project > Properties > Java Build Path > Libraries > Add JARs…
-abra o Projeto Relationship e o diretório lib
-selecione todos os arquivos JARs de cada biblioteca (somente arquivos JAR)
-> OK > Apply
 
-### 5ª) Compilar normalmente
+\> Project > Properties > Java Build Path > Libraries > Add JARs…
+
+abra o Projeto Relationship e o diretório lib
+
+selecione todos os arquivos JARs de cada biblioteca (somente arquivos JAR)
+
+\> OK > Apply
+
+### 5ª) Compilação 
 Obs.: a primeira vez demora bastante.
 
-### 6º) Execução:
+### 6º) Execução
 * na janela “Select Java Aplication”, indique “Main.mainProcess”
 * configure o diretório de saída no Config.txt
+
 // Base directory to creation of output files:
+
 baseDirectory = C:\\Users\\Henrique\\Documents\\Relationship
+
 Observe que no Linux usa-se // e no Windows \\\
 
-### 7º) Visualize o mapa conceitual final por intermédio do arquivo de extensão CLX.
-Ele pode ser aberto pelo CmapTools.
+### 7º) Visualização do mapa conceitual final (arquivo CLX)
+Abra-o normalmente pelo CmapTools.
+
 Use o atalho CTRL+L para uma sugestão inicial de formatação.
 
 ## Autor:
