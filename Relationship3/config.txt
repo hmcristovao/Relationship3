@@ -10,7 +10,7 @@ testName = teste10
 knowledgeBasePlace = 1
 
 // Base directory to creation of output files: absolut path 'C:\\path\\results' or relative path 'path\\results' or current path '.'
-baseDirectory = C:\\Users\\Henrique\\Documents\\Relationship
+baseDirectory = //media//henrique//Henrique//GitHub//Relationship//relationship3//Relationship3
 //baseDirectory = C:\\documentos\\Doutorado\\Tese\\my_knowledge_base
 
 // minimum quantity of iterations to get out of loop when connected component = 1 (good value: 6) 
